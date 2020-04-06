@@ -11,5 +11,6 @@ Shop fronts on OFN are highly flexible. Read more if you are interested in:
 * [Providing different products and services to different customer groups](customer-management-and-conditional-displays-prices/).
 * Would like only registered members to be able to place orders \([Private Shop](private-shopfront.md)\)
 * Would like a 'dummy' [display only](display-only-order-cycles.md) shop front
-* [Embed](embedded-shopfront.md) your online OFN shop in an existing website.
+
+
 

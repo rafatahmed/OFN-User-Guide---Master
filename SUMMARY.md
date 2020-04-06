@@ -39,7 +39,6 @@
       * [Tags and Tag Rules](basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md)
     * [Private shopfront](basic-features/shopfront/private-shopfront.md)
     * [Display only shopfront](basic-features/shopfront/display-only-order-cycles.md)
-    * [Embedded Shopfront](basic-features/shopfront/embedded-shopfront.md)
   * [Orders](basic-features/orders/README.md)
     * [View Orders](basic-features/orders/view-orders.md)
     * [Create orders manually](basic-features/orders/create-orders-manually.md)
