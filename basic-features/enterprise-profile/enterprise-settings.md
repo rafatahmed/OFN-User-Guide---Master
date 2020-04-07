@@ -109,6 +109,10 @@ These differ from country to country and they depend on local regulations and la
 
 **Charges VAT:** VAT registered businesses should select this option so that VAT is managed appropriately on invoices and reports.
 
+For advise on selling as a VAT registered enterprise please see this document:
+
+{% file src="../../.gitbook/assets/vat-for-open-food-network-enterprises.pdf" caption="Selling as VAT registered enterprise" %}
+
 **Display Logo on Invoices:** if desired.
 
 **Add Customised Text at the end of Invoices:** such as payment details \(if payments are accepted by BACS\) or terms and conditions.
