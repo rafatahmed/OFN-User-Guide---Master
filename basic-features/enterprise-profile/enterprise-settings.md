@@ -191,13 +191,21 @@ Under this menu are all the 'tags' which have been assigned to the customers of 
 Visible to Shop and Hub registered enterprises only.
 {% endhint %}
 
-**Shopfront Message**: This message is optional. It will be displayed at the top of your online store, above the product listings. It’s an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. An example is below:
+**Shopfront Message**: This message is optional. If completed the message will be visible under a 'Notices' tab on the top menu bar.  Your shop \(and it's products\) will appear under the 'Shop' tab.
 
-![](../../.gitbook/assets/shopfront-message.png)
+![Shop front with Notices for single order cycle](../../.gitbook/assets/notices-singleoc.jpg)
 
-**Shopfront Closed Message**: This message will be displayed when your shopfront is closed \(no active order cycle\). It’s a chance to tell customers about how your ordering works, and when the shop will next be open and accepting orders.
+![Shop front with notices for multiple concurrent order cycles](../../.gitbook/assets/notices.jpg)
 
-![](../../.gitbook/assets/store-closed.png)
+The Shop Front message or 'Notice' is an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. You can include links to external websites \(perhaps to showcase where your products are grown\), social media and more.
+
+If left blank the 'Notices' tab will not appear on your shop front.
+
+![](../../.gitbook/assets/notices-none.jpg)
+
+**Shopfront Closed Message**: This message will be displayed under the 'Shop' tab when your shopfront is closed \(no active order cycle\). It’s a chance to tell customers about how your ordering works, and when the shop will next be open and accepting orders.
+
+![](../../.gitbook/assets/notices-shut.jpg)
 
 **Shopfront Category Ordering**: By default, products are arranged alphabetically in your shop. You can choose to display the products in order of category according to your wish. In this case, the products will be displayed in order of category and then in alphabetical order within their category. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preserves appearing further down the shopfront.
 
