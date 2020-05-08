@@ -46,17 +46,21 @@ For Paypal, MasterCard, Stripe and Pin Payments \(Australia only\) additional in
 To setup a PayPal payment method, you need a PayPal business or merchant account. You can create one [here](https://www.paypal.com/au/webapps/mpp/merchant). Once you have that, you can set up ‘API access’ within PayPal, which will enable OFN to connect customers directly with your PayPal account.
 
 1. Login to your PayPal Account
-2. Click Tools -&gt; All Tools and then Integrate PayPal \(from the left hand menu\)
+2. Under your account name on the top right there is a drop down menu with 'Account Settings'
 
-![](../../.gitbook/assets/paypal1.jpg)
+![](../../.gitbook/assets/paypalmay1.jpg)
 
-3. Click on ‘API Credentials’  and select 'Manage API credentials' from the custom checkout experience option.
+3. Select 'Update' from API Access
 
-![](../../.gitbook/assets/paypal2.jpg)
+![](../../.gitbook/assets/paypalmay2.jpg)
+
+4. Select 'Manage API credentials' from the custom checkout experience option.
+
+![](../../.gitbook/assets/paypalmay3.jpg)
 
 From here you will be able to access your API username, password and signature.
 
-![](../../.gitbook/assets/paypal4.jpg)
+![](../../.gitbook/assets/paypalmay4.jpg)
 
 **In OFN,** make sure you are logged in as your Enterprise User. Go to an Enterprise and create a Payment Method. Select PayPal and fill in the details from the PayPal site.
 
