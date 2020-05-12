@@ -9,7 +9,7 @@ The listing order page shows a list view of all orders placed through your shop\
 
 The page has filters which allow you to select which orders you want to view. You can filter by date, status or the email and name of the customer.
 
-![](../../.gitbook/assets/listingorders1.jpg)
+![](../../.gitbook/assets/listingorders1new.jpg)
 
 **Distributor:** This is the enterprise through who's shop the order was placed.
 
@@ -26,8 +26,13 @@ The page has filters which allow you to select which orders you want to view. Yo
 **Payment State:**
 
 * Balance Due- if it’s cash, or bank transfer or eftpos \(ie all non automated payments\), then the order will be ‘balance due’ by default, until admin members of the distributing enterprise manually mark that the payment has been received, at which point the payment state will change to 'Paid'.
+
+![](../../.gitbook/assets/balancedue.jpg)
+
 * Paid- For automated payments \(PayPal, Stripe, PIN for instance\), the payment portal will automatically mark an order as 'paid' when it has been processed.  Non-automated payments \(cash, bank transfer etc\) will also be marked as 'paid' when manually updated. 
 * Credit Owed- If someone has paid for their order, but then you edit their order, and remove an item, the cost of that item becomes ‘credit owed’.
+
+![](../../.gitbook/assets/creditowed.jpg)
 
 **Shipment state:**
 
