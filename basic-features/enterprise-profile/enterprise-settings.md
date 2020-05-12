@@ -205,7 +205,9 @@ If left blank the 'Notices' tab will not appear on your shop front.
 
 **Shopfront Closed Message**: This message will be displayed under the 'Shop' tab when your shopfront is closed \(no active order cycle\). It’s a chance to tell customers about how your ordering works, and when the shop will next be open and accepting orders.
 
-![](../../.gitbook/assets/notices-shut.jpg)
+![Closed shopfront with customised message](../../.gitbook/assets/ordersclosednew1.jpg)
+
+![Closed shopfront with default message](../../.gitbook/assets/orderscloseddefault.jpg)
 
 **Shopfront Category Ordering**: By default, products are arranged alphabetically in your shop. You can choose to display the products in order of category according to your wish. In this case, the products will be displayed in order of category and then in alphabetical order within their category. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preserves appearing further down the shopfront.
 
