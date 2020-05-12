@@ -3,9 +3,9 @@
 It is possible to have more than one order cycle open at the same time. This has the effect of creating two \(or more\) open shopfronts, which the customer can choose between from the one website address \(URL\).   
 This feature is helpful when you want to have different ‘conditions’ in the two shopfronts such as different products \(wholesale or retail\), different enterprise fees \(such a non-member mark-ups\) or different order cycle opening and closing dates \(for different deliver runs\).
 
-For example below, two different collection dates are available for the customer:
+When the customer first lands on your shopfront page they will be requested to choose an order cycle before products are visible:
 
-![](../../../.gitbook/assets/concuroc1.jpg)
+![](../../../.gitbook/assets/multipleoc2.jpg)
 
 When the customer selects an order cycle, the shopfront will load with the specific products, fees and opening and closing dates of that order cycle.
 
@@ -24,4 +24,8 @@ You can choose whether you want your order cycles to be listed in the dropdown m
 This is setup in your [enterprise settings](../../enterprise-profile/enterprise-settings.md) -&gt; Shop Preferences -&gt; Sort Order Cycles On Shopfront By
 
 ![](../../../.gitbook/assets/ordercyclesort.jpg)
+
+Customers can navigate between order cycles:
+
+![](../../../.gitbook/assets/multipleoc3.jpg)
 
