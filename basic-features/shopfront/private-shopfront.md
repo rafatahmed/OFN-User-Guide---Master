@@ -50,5 +50,3 @@ a\) If the customer logs in, or signs up with an email address that is on the sh
 
 b\) If the customer logs in or signs up with an email that is not on the shop's customer list they'll see the message below. They can then contact the shop to request access.
 
-![](../../.gitbook/assets/image%20%288%29.png)
-
