@@ -203,7 +203,11 @@ If left blank the 'Notices' tab will not appear on your shop front.
 
 ![](../../.gitbook/assets/notices-none.jpg)
 
-**Shopfront Closed Message**: This message will be displayed under the 'Shop' tab when your shopfront is closed \(no active order cycle\). It’s a chance to tell customers about how your ordering works, and when the shop will next be open and accepting orders.
+**Shopfront Closed Message**: This message will be displayed under both the 'Notices' AND 'Shop' tabs when your shopfront is closed \(no active order cycle\). It’s a chance to tell customers when the shop will next be open and accepting orders.
+
+{% hint style="success" %}
+TIP: Copy and paste your 'ShopFront Message' into the Shopfront Closed Message. Then you can inform customers about how your shop works, link to external websites with more information about your products and ethics etc as well as inform them of when the next order cycle will open.
+{% endhint %}
 
 ![Closed shopfront with customised message](../../.gitbook/assets/ordersclosednew1.jpg)
 
