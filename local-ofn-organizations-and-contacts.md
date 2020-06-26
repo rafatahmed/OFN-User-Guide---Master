@@ -130,7 +130,9 @@ Want to learn more about what is the Open Food Network? [Check our global websit
       <td style="text-align:left">English</td>
     </tr>
   </tbody>
-</table>_\*Local platform is run by volunteers only and not regularly updated and maintained, there might be discrepancies between this user guide and the actual local platform._
+</table>
+
+_\*Local platform is run by volunteers only and not regularly updated and maintained, there might be discrepancies between this user guide and the actual local platform._
 
 _\*\*Local provider is in the process of setting up the local platform and building the offer and support to local users._
 
