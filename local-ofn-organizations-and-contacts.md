@@ -46,10 +46,11 @@ Want to learn more about what is the Open Food Network? [Check our global websit
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Brasil**</td>
+      <td style="text-align:left">Brasil</td>
       <td style="text-align:left"><a href="http://redemg.org.br/">REDE de Intec&#xE2;mbio de Tecnologias Alternativas</a>
       </td>
-      <td style="text-align:left">Coming soon</td>
+      <td style="text-align:left"><a href=" https://openfoodbrasil.com.br/"> https://openfoodbrasil.com.br/</a>
+      </td>
       <td style="text-align:left">Portuguese</td>
     </tr>
     <tr>
@@ -63,6 +64,13 @@ Want to learn more about what is the Open Food Network? [Check our global websit
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">Costa Rica</td>
+      <td style="text-align:left">OFN Costa Rica</td>
+      <td style="text-align:left"><a href="https://www.laferia.cr/">https://www.laferia.cr/</a>
+      </td>
+      <td style="text-align:left">Spanish English</td>
+    </tr>
+    <tr>
       <td style="text-align:left">France</td>
       <td style="text-align:left">Open Food France</td>
       <td style="text-align:left"><a href="https://www.openfoodfrance.org/">https://www.openfoodfrance.org/</a>
@@ -73,12 +81,19 @@ Want to learn more about what is the Open Food Network? [Check our global websit
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Italy**</td>
-      <td style="text-align:left">Under construction</td>
-      <td style="text-align:left"><a href="https://staging.pixelwise.it/ ">https://staging.pixelwise.it/ </a>(testing
-        mode)</td>
+      <td style="text-align:left">Italy</td>
+      <td style="text-align:left">OFN Italy</td>
+      <td style="text-align:left"><a href="https://app.openfoodnetwork.it/">https://app.openfoodnetwork.it/</a>
+      </td>
       <td style="text-align:left">Italian
         <br />English</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Ireland</td>
+      <td style="text-align:left">OFN Ireland</td>
+      <td style="text-align:left"><a href="https://openfoodnetwork.ie/">https://openfoodnetwork.ie/</a>
+      </td>
+      <td style="text-align:left">English</td>
     </tr>
     <tr>
       <td style="text-align:left">New Zealand</td>
@@ -124,13 +139,15 @@ Want to learn more about what is the Open Food Network? [Check our global websit
     </tr>
     <tr>
       <td style="text-align:left">USA</td>
-      <td style="text-align:left">Under construction</td>
+      <td style="text-align:left">Open Food Network USA</td>
       <td style="text-align:left"><a href="https://openfoodnetwork.net/">https://openfoodnetwork.net/</a>
       </td>
       <td style="text-align:left">English</td>
     </tr>
   </tbody>
-</table>_\*Local platform is run by volunteers only and not regularly updated and maintained, there might be discrepancies between this user guide and the actual local platform._
+</table>
+
+_\*Local platform is run by volunteers only and not regularly updated and maintained, there might be discrepancies between this user guide and the actual local platform._
 
 _\*\*Local provider is in the process of setting up the local platform and building the offer and support to local users._
 
