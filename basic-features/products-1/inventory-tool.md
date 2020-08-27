@@ -1,8 +1,8 @@
-# Inventory tool
+# Inventario
 
-## Introduction
+## Introducción
 
-The 'inventory' gives enterprises increased control and flexibility with their product management, if they require it. The feature will mainly be of interest to Hubs and Hub managers.
+El inventario proporciona a las empresas un mayor control y flexibilidad con la gestión de sus productos, si así lo requieren. Esta función será principalmente de interés para los Hubs y los administradores de Hub.
 
 By using the 'Inventory' Hub A can modify the price and stock levels of the items it has permission to retail.  The feature can also allow Hub A to make only a sub-selection of goods from its supplying producers available for sale on its shop front if they don't wish to distribute entire product ranges.  All this can be done without modifying the master copy of the products. Hence if both Hubs A and B stock the same products, then by using the inventory tool Hub A can alter price and other fundamental information about the items it sells without impacting on Hub B.
 
