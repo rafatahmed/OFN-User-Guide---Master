@@ -88,9 +88,9 @@ For more flexibility, the same order cycle may have **multiple hub distributors*
 
 The **tags** column is where you can tag your order cycles to customise whether they are visible/invisible to certain customers. See [tags and tag rules](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) for more information.
 
-The **‘ready for \(ie Date/Time\)’ \(**_**required**_**\):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how an order cycle with a ready for date of  'Saturday 7th December’ is displayed on the shop front.
+The **‘ready for \(ie Date/Time\)’ \(**_**required**_**\):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how a customer can toggle between different order cycles to select the date which suites them best.
 
-![](../../../.gitbook/assets/readyfor.jpg)
+![](../../../.gitbook/assets/multipleoc3%20%281%29.jpg)
 
 The note is also shown at check out, when the customer selects their shipping method \(see below\) and is included in the order confirmation email.
 

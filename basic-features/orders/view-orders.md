@@ -9,7 +9,7 @@ The listing order page shows a list view of all orders placed through your shop\
 
 The page has filters which allow you to select which orders you want to view. You can filter by date, status or the email and name of the customer.
 
-![](../../.gitbook/assets/listingorders1new.jpg)
+![](../../.gitbook/assets/view-orders.jpg)
 
 **Distributor:** This is the enterprise through who's shop the order was placed.
 
@@ -137,6 +137,14 @@ Then click 'Print Invoices' button to the top right of the table:
 A Loading page will pop up while the invoices are generated. On completion you will be able to view \(and download\) a file containing all the invoices for the orders selected:
 
 ![](../../.gitbook/assets/compileinvoice.jpg)
+
+{% hint style="info" %}
+By default the invoices selected will be printed in sequence in which the orders were completed.
+{% endhint %}
+
+{% hint style="info" %}
+To print invoices only for those orders associated with a specific Shipping Method \(or collection point\) then sort by 'Shipping Method' prior to batch printing.
+{% endhint %}
 
 ## Bulk order management
 

@@ -13,7 +13,7 @@ Before you read on, you might like to look at a quick demonstration of how to se
 * Go to the Payment Methods page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Payment Methods** page is found in the menu on the left hand side.
 * Click **Create new payment method +** . You will be directed to a page like this:
 
-![](../../.gitbook/assets/paymentmethod1%20%281%29.jpg)
+![](../../.gitbook/assets/paymentmethods2.jpg)
 
 * Tick your enterprise, in the box on the right hand side of the page titled Hubs. This indicates which enterprise the payment method you are about to create will apply to. You can select more than one enterprise.
 * **Name:** Choose a name for this payment method. \(eg 'Pay with credit card using Paypal'\). This name is displayed at checkout and on customers' order confirmation emails.
@@ -21,14 +21,24 @@ Before you read on, you might like to look at a quick demonstration of how to se
 ![](../../.gitbook/assets/paymentmethod2.jpg)
 
 * **Description:** provide further details about the payment method. For example, for a bank transfer, you would enter the bank account details in this box into which you would like a customer to make the BACS payment. This description is displayed at checkout and in order confirmation emails.
+* **Display:** Opt for either 'Back Office Only' or 'Both Checkout and Back Office'
+
+{% hint style="info" %}
+If you want to inactivate a payment method for a while but might want to offer it again in the future \(perhaps due to a COVID outbreak you temporarily need to stop offering cash on collection\) then change it to 'Back Office Only'.
+{% endhint %}
+
 * **Active:** Select whether this payment method is currently visible and available, or not.
 * **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(for example you may wish to allow only wholesale customers to pay by BACS but 'force' domestic customers to pay by Credit Card or PayPal.\). For more information read [here](customer-management-and-conditional-displays-prices/).
 * **Payment providers**: Select the option which is relevant to the payment method you are creating. There are five options:
-  * Cash / EFT / etc. \(Cash, cheque or bank transfer. These payments do not go through an online payment portal and do not involve automatic validation\) 
   * MasterCard Internet Gateway Service \(MIGS\) 
   * PayPal Express 
   * [Pin Payments](https://pinpayments.com/) \(Australia only\) 
   * Stripe
+  * Stripe SCA
+  * Cash / EFT / etc. \(Cash, cheque or bank transfer. These payments do not go through an online payment portal and do not involve automatic validation\) 
+
+![](../../.gitbook/assets/payment-methods1.jpg)
+
 * **Calculator:** Select how you would like any charges associated with the payment method to apply to an order. Note that payment method fees can be set to zero. See below for more information about [Payment Method Fees](payment-methods.md#fee-calculators). 
 
 By clicking Create, the payment method will be created and you will have new fields to define payment method fees. These fields visible depend on which 'Calculator' you selected. 

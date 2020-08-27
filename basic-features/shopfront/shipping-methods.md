@@ -13,7 +13,7 @@ Before you read on, you might like to have look at a quick demonstration of how 
 * Go to the Shipping Methods page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Shipping Methods** page is found in the menu on the left hand side.
 * Click **Create new shipping method +** . You will be directed to a page like this:
 
-![](../../.gitbook/assets/newshipping.jpg)
+![](../../.gitbook/assets/shippingmethods.jpg)
 
 * Check the box next to your enterprise on the right hand side of the page under 'Hubs'. This indicates that the shipping method you are about to create will apply to that enterprise.  You can select multiple enterprises, if desired.
 * **Name**: Choose a name for the method. This name will be displayed to the customer during their purchase process and on order confirmation emails. Example:
@@ -21,6 +21,12 @@ Before you read on, you might like to have look at a quick demonstration of how 
 ![](../../.gitbook/assets/shippinginfo.jpg)
 
 * **Description:** Add additional details, such as the precise address of the collection point. These details will be visible to customers in grey next to the name \(see screenshot above\).
+* **Display:** Opt for either 'Back Office Only' or 'Both Checkout and Back Office'
+
+{% hint style="info" %}
+If you want to inactivate a shipping method for a while but might want to offer it again in the future \(perhaps a summer only collection point that you don't want to be available to customers in the winter\) then change it to 'Back Office Only'.
+{% endhint %}
+
 * **Category:** Is this method a delivery or pick-up?
 * **Tags:** enter labels here if you wish to differentiate between customers. Tags could be useful if you want to offer free shipping to a sub set of customers or only offer delivery to those who have a registered address which is close by.  Read more [here](customer-management-and-conditional-displays-prices/).
 * **Calculator:** Select the way that shipping fees will be added to this shipping method.  Note that a shipping fee may be zero. See below for more details.
