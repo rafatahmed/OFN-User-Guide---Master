@@ -27,6 +27,10 @@ Before you read on, you might like to look at a quick demonstration of how to se
 If you want to inactivate a payment method for a while but might want to offer it again in the future \(perhaps due to a COVID outbreak you temporarily need to stop offering cash on collection\) then change it to 'Back Office Only'.
 {% endhint %}
 
+{% hint style="warning" %}
+Changing all your enterprise's payment methods to 'Back Office Only' will result in a [Display Only Shopfront](display-only-order-cycles.md) for active order cycles.
+{% endhint %}
+
 * **Active:** Select whether this payment method is currently visible and available, or not.
 * **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(for example you may wish to allow only wholesale customers to pay by BACS but 'force' domestic customers to pay by Credit Card or PayPal.\). For more information read [here](customer-management-and-conditional-displays-prices/).
 * **Payment providers**: Select the option which is relevant to the payment method you are creating. There are five options:

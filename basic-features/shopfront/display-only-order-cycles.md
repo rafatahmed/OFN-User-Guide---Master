@@ -5,20 +5,16 @@ In some cases, shop owners may want to be able to display products in their shop
 To setup a display only order cycle:
 
 * Open an [Order Cycle](order-cycle/order-cycles-for-hubs.md) as usual, with the products you wish to display and date range for the order cycle to remain open.
-* Deactivate all your [Payment Methods](payment-methods.md)- this can be done from Enterprises -&gt; Settings -&gt; Payment Methods and then un-checking all options:
+* Change the 'Display' state of all your [Payment Methods](payment-methods.md) to 'Back Office Only'.  This can be done from Enterprises -&gt; Settings -&gt; Payment Methods -&gt; Edit:
 
-![](../../.gitbook/assets/dummypay.jpg)
+![](../../.gitbook/assets/displayonlyback.jpg)
 
 Your shop will now be in the ‘display only’ state.   
-Below is an example of how the shop appears to customers. It’s clearly marked as closed, but customers can see the product range. If they do try to add items to cart or checkout, they’ll be stopped.
+Below is an example of how the shop appears to customers. It’s clearly marked as closed, but customers can see the product range.
 
-![](../../.gitbook/assets/display-only.png)
-
-{% hint style="warning" %}
-When you next open a live order cycle from which you wish to sell produce, you will need to reactivate at least one payment method.
-{% endhint %}
+![](../../.gitbook/assets/displayonlycust.jpg)
 
 {% hint style="warning" %}
-In order to create the order cycle for your 'display only' shop front you will need to have at least one Payment Method active else the order cycle will not work.  It is **only after it has been set up** that you must deactivate the Payment methods in order to create a display only shop front.
+When you next open a live order cycle from which you wish to sell produce, you will need to change the Display state of at least one [payment method](payment-methods.md) to 'Checkout and Back Office' or 'Checkout only'.
 {% endhint %}
 
