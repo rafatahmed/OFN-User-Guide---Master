@@ -1,4 +1,4 @@
-# Welcome to the OFN User Guide
+# مرحبًا بك في دليل مستخدم لمنصة فلاحة شبكة الغذاء المفتوح
 
 | Language version | Link to the user guide |
 | :--- | :--- |
@@ -6,11 +6,11 @@
 | ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png) | [Accéder à la version française du guide utilisateur Open Food Network](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) |
 | ![](.gitbook/assets/capture-du-2019-09-26-00-37-35.png) | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org/) |
 
-**This user guide is designed to help you get the most out of the Open Food Network platform to support the operation of local food enterprises and “short food chains” wherever you live.**
+### تم تصميم دليل المستخدم هذا لمساعدتك في تحقيق أقصى استفادة من منصة Open Food Network لدعم تشغيل مؤسسات الأغذية المحلية و "سلاسل الأغذية القصيرة" أينما كنت.
 
-## An overview
+## لمحة عامة
 
-The Open Food Network enables local people to build better, fairer ways to source their food locally and directly from growers, farmers and producers. Expansive networks of small food producers, distributors, retailers, food hubs, food co-ops and buying groups can come together with the aid of the Open Food Network to find the best way of shortening the food supply chain. And in the process it helps to build strong communities.
+#### تمكّن شبكة الغذاء المفتوح السكان المحليين من بناء طرق أفضل وأكثر عدلاً للحصول على طعامهم محليًا وبشكل مباشر من المزارعين والمزارعين والمنتجين. يمكن لشبكات موسعة من صغار منتجي الأغذية والموزعين وتجار التجزئة ومراكز الطعام والتعاونيات الغذائية ومجموعات الشراء أن تتحد مع مساعدة شبكة الغذاء المفتوحة لإيجاد أفضل طريقة لتقصير سلسلة التوريد الغذائي. وهي تساعد في هذه العملية على بناء مجتمعات قوية.
 
 The Open Food Network is a global project that supports the operational organisation of farmers, groups of consumers, cooperatives, etc. in the distribution of local food. The software we build is open source, and we collaborate with amazing people from all over the world to keep improving it! We also provide support in the organisational aspects of setting up and running a food hub. Please get in touch with [your local OFN contact](local-ofn-organizations-and-contacts.md) to learn more about us!
 
