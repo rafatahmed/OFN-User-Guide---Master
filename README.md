@@ -7,11 +7,11 @@
 | ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png) | [Accéder à la version française du guide utilisateur Open Food Network](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) |
 | ![](.gitbook/assets/capture-du-2019-09-26-00-37-35.png) | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org/) |
 
-### تم تصميم دليل المستخدم هذا لمساعدتك في تحقيق أقصى استفادة من منصة فلاحة شبكة الغذاء المفتوح لدعم وتشغيل مؤسسات الأغذية المحلية و "سلاسل الأغذية القصيرة" أينما كنت.
+### تم تصميم دليل المستخدم هذا لمساعدتك في تحقيق أقصى استفادة من منصة [فلاحة شبكة الغذاء المفتوح ](https://flaha.org)لدعم وتشغيل مؤسسات الأغذية المحلية و "سلاسل الأغذية القصيرة" أينما كنت.
 
 ## لمحة عامة
 
-#### تمكّن فلاحة المواطنين من بناء طرق أفضل وأكثر عدلاً للحصول على طعامهم محليًا وبشكل مباشر من المزارعين والمنتجين. يمكن لشبكات موسعة من صغار منتجي الأغذية والموزعين وتجار التجزئة ومراكز الطعام والتعاونيات الغذائية ومجموعات الشراء أن تتحد مع مساعدة منصة فلاحة كشبكة غذاء مفتوحة لإيجاد أفضل طريقة لتقصير سلسلة التوريد الغذائي وتساعد في بناء مجتمعات قوية.
+#### تمكّن **فلاحة** المواطنين من بناء طرق أفضل وأكثر عدلاً للحصول على طعامهم محليًا وبشكل مباشر من المزارعين والمنتجين. يمكن لشبكات موسعة من صغار منتجي الأغذية والموزعين وتجار التجزئة ومراكز الطعام والتعاونيات الغذائية ومجموعات الشراء أن تتحد بمساعدة منصة فلاحة كشبكة غذاء لإيجاد أفضل طريقة لتقصير سلسلة التوريد الغذائي وتساعد في بناء مجتمعات قوية.
 
 The Open Food Network is a global project that supports the operational organisation of farmers, groups of consumers, cooperatives, etc. in the distribution of local food. The software we build is open source, and we collaborate with amazing people from all over the world to keep improving it! We also provide support in the organisational aspects of setting up and running a food hub. Please get in touch with [your local OFN contact](local-ofn-organizations-and-contacts.md) to learn more about us!
 
