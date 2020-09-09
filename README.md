@@ -2,7 +2,8 @@
 
 | Language version | Link to the user guide |
 | :--- | :--- |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-38-19.png) | _You are reading the English version !_ |
+|  | أنت تقرأ النسخة العربية! |
+| ![](.gitbook/assets/capture-du-2019-09-26-00-38-19.png) | \_\_[_Open food Network - User Guide  English version_](https://guide.openfoodnetwork.org/) __ |
 | ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png) | [Accéder à la version française du guide utilisateur Open Food Network](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) |
 | ![](.gitbook/assets/capture-du-2019-09-26-00-37-35.png) | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org/) |
 
