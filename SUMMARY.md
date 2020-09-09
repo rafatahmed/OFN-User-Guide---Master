@@ -62,5 +62,5 @@
   * [Your farm on Facebook](hub-management-tips/your-farm-on-facebook.md)
 * [Trouble shooting](trouble-shooting.md)
 * [Glossary of OFN Terms](glossary-of-ofn-terms.md)
-* [Feedback](feedback.md)
+* [تغذية راجعة](feedback.md)
 

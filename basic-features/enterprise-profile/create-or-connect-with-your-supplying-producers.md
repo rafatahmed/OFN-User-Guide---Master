@@ -1,7 +1,7 @@
 # Create or connect with your supplying producers
 
 {% hint style="success" %}
- This page is relevant for users who have registered **Producer or Non-Producer Hub** enterprises only.
+This page is relevant for users who have registered **Producer or Non-Producer Hub** enterprises only.
 {% endhint %}
 
 For such Hub enterprises, connecting with existing OFN producers or creating accounts for your producers is a necessary precursor to adding your product range to your shop.
@@ -14,7 +14,7 @@ An example of how this displays in the shopfront is shown below:
 
 ![](../../.gitbook/assets/producernote.png)
 
-As a hub, before being able to add products to your shopfront, you have two options: 
+As a hub, before being able to add products to your shopfront, you have two options:
 
 1. Create OFN profiles for the producers who supply you \(if they don't already have a profile\)
 2. Request [permission](enterprise-to-enterprise-permissions-e2es.md) to sell the products of existing OFN-registered producers.
@@ -65,11 +65,11 @@ Then you can access the the same [enterprise setting page](enterprise-settings.m
 
 ## Supplier has a pre-existing OFN profile <a id="supplyingproducer"></a>
 
-If a supplier already has an OFN profile, you will need to get their permission to add products to their profile \(if they haven’t already\) and to stock them in your shop. You will be able to find their contact details on their OFN profile. 
+If a supplier already has an OFN profile, you will need to get their permission to add products to their profile \(if they haven’t already\) and to stock them in your shop. You will be able to find their contact details on their OFN profile.
 
 Keep in mind that they may be registered as a Producer Profile but have their products and enterprise managed by another Hub. OFN can accommodate two \(or more\) hubs stocking the same producer’s products on their separate shop fronts, through the [inventory](../products-1/inventory-tool.md) feature for instance. If hubs **work together and notify each other** of any changes they make to producer enterprises which they manage, but that supply multiple hubs, then distribution problems can be avoided.
 
 Within the OFN, [Enterprise to Enterprise Permissions](enterprise-to-enterprise-permissions-e2es.md) are used to control the nature of trading agreements between producers and hubs. Producers can grant hubs different kinds of Enterprise permissions, in different combinations, to specify exactly which elements of their account the hub can interact with. At the simplest level a producer can grant a hub permission to stock their products in the hub’s shop. They may also be happy to allow the hub to create and modify their products, or edit their profile.
 
-[This page](enterprise-to-enterprise-permissions-e2es.md) covers all of the details of the different Enterprise permissions available and how the producer can grant them to a hub. Discuss with the producer who is going to supply your hub with goods which permissions you require. 
+[This page](enterprise-to-enterprise-permissions-e2es.md) covers all of the details of the different Enterprise permissions available and how the producer can grant them to a hub. Discuss with the producer who is going to supply your hub with goods which permissions you require.
 

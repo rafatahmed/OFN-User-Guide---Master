@@ -8,12 +8,12 @@ A good way of keeping in touch with customers and potential customers is to set 
 One of the most common tools online today is [Mailchimp](https://mailchimp.com/), so here are some tips and tricks for using Mailchimp to send your newsletters.
 
 {% hint style="danger" %}
-Be sure to follow local legal guidelines when storing and processing customer contact information.  For EU regulations see [here](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/).
+Be sure to follow local legal guidelines when storing and processing customer contact information. For EU regulations see [here](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/).
 {% endhint %}
 
 ## Integrating MailChimp with OFN
 
-It is possible to "connect" your Open Food Network and MailChimp accounts.  In doing so every new customer who places an order in your shop will automatically have their contact address added to your enterprise's MailChimp contact list. 
+It is possible to "connect" your Open Food Network and MailChimp accounts. In doing so every new customer who places an order in your shop will automatically have their contact address added to your enterprise's MailChimp contact list.
 
 If you would like us to help you facilitate this automatic link between your OFN and MailChimp accounts please contact your local support team.
 

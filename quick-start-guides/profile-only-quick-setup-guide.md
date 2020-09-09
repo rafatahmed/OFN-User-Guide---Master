@@ -13,9 +13,9 @@ It's easy to get started on OFN, just follow the steps below:
 3. Get in contact with OFN hubs through which you would like to sell your products- this might be as simple as talking to the hub manager when collecting your shopping or sending them an email.
 4. Connect through OFN to the hub where you would like your goods to be sold by setting up the appropriate [enterprise permissions](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md).
 
-Congrats!  Your job is done!  
+Congrats! Your job is done!
 
-The hub managing your sales should periodically send you orders based on the time scales you agreed.  Order notifications can be automated by the Hub to get to you by email.
+The hub managing your sales should periodically send you orders based on the time scales you agreed. Order notifications can be automated by the Hub to get to you by email.
 
 {% hint style="info" %}
 If you want to use OFN to be visible on the internet only then there is no need to complete steps 2-4 above.

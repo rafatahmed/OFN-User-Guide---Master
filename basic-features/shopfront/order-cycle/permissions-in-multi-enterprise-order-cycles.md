@@ -1,6 +1,6 @@
 # Permissions in multi-enterprise order cycles
 
-This page explains the varying rights each enterprise has in the context of complex multiple enterprise order cycles.  Be it:
+This page explains the varying rights each enterprise has in the context of complex multiple enterprise order cycles. Be it:
 
 * the producer \([profile](../../../your-quick-start-on-ofn-given-who-you-are.md#profile) or [shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)\) who supplies the order cycle only,
 * a [hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub) which distributes goods only,
@@ -13,7 +13,7 @@ _**The coordinator has the highest degree of control over an order cycle. Other 
 ## The Coordinator
 
 {% hint style="info" %}
-**Full order cycle functionality** can only be obtained if an enterprise is registered as a [Hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub).  To change your enterprise type see [here](../../enterprise-profile/package-types.md#changing-your-profile-type).
+**Full order cycle functionality** can only be obtained if an enterprise is registered as a [Hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub). To change your enterprise type see [here](../../enterprise-profile/package-types.md#changing-your-profile-type).
 {% endhint %}
 
 {% hint style="warning" %}
@@ -48,14 +48,14 @@ To do this each potential distributor must be:
 If a potential distributing enterprise appears in the list of possible options in the outgoing section of the order cycle but can not be selected then it is probable that they haven't set up shipping and/or payment methods yet.
 {% endhint %}
 
-The coordinator can choose from the complete list of incoming products, which will be displayed on each distributing Hub's shopfront.  _**The supplier \(producer profile or shop\) must have set up an**_ [_**enterprise permission**_](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) _**of 'add to order cycle' between themselves and the specific distributing hub \(as well as the coordinator\)**_.
+The coordinator can choose from the complete list of incoming products, which will be displayed on each distributing Hub's shopfront. _**The supplier \(producer profile or shop\) must have set up an**_ [_**enterprise permission**_](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) _**of 'add to order cycle' between themselves and the specific distributing hub \(as well as the coordinator\)**_.
 
 The coordinator can apply differential [enterprise fees](../enterprise-fees.md) to each distributing hub if desired. This might be advantageous if one hub is further away from the coordinator than another, and hence would have a higher transport overhead associated with it.
 
 ## Supplying \(Incoming\) Enterprises
 
-The supplier \([producer](../../enterprise-profile/package-types.md#for-producers)\) can view all the order cycles they’re involved with by visiting the order cycle summary page \(from the top horizontal blue menu\), even if they haven't created the order cycles themselves.   
-By clicking on the order cycle an incoming producer can see their details only, not the products or details of others involved in the order cycle.  They can edit items relating to themselves: for example they can remove a product which is out of stock from an order cycle.  
+The supplier \([producer](../../enterprise-profile/package-types.md#for-producers)\) can view all the order cycles they’re involved with by visiting the order cycle summary page \(from the top horizontal blue menu\), even if they haven't created the order cycles themselves.  
+By clicking on the order cycle an incoming producer can see their details only, not the products or details of others involved in the order cycle. They can edit items relating to themselves: for example they can remove a product which is out of stock from an order cycle.  
 A supplying enterprise can not alter the name nor dates of an order cycle.
 
 In the Reports section \(top horizontal blue menu\) an incoming supplying producer can view the orders they have received for the order cycle
@@ -79,8 +79,8 @@ The degree of influence a supplier has over their products in the 'Outgoing Prod
 
 ## Distributing \(Outgoing\) Enterprise
 
-A distributor can view Order Cycles they’re involved with in their Order Cycle summary page, even if they did not create them themselves \(ie. they are not the order cycle coordinator\).   
-By clicking on an order cycle, the outgoing distributing enterprise can see the details of an order cycle which relate to them only.  \(For example, if they are not the sole distributor of the order cycle they will not be able to see who the other distributing enterprises are nor the products they will offer on their shop front.\)  
+A distributor can view Order Cycles they’re involved with in their Order Cycle summary page, even if they did not create them themselves \(ie. they are not the order cycle coordinator\).  
+By clicking on an order cycle, the outgoing distributing enterprise can see the details of an order cycle which relate to them only. \(For example, if they are not the sole distributor of the order cycle they will not be able to see who the other distributing enterprises are nor the products they will offer on their shop front.\)  
 The outgoing distributing hub can view and edit details of their distribution- delivery dates and methods, and enterprise fees for distribution- but no the name nor period of the order cycle itself.
 
 In the 'Reports' menu, a order cycle distributor can view the orders which have been placed \(along with customer names\) to aid delivery/dispatch of goods.

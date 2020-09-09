@@ -4,9 +4,9 @@ Enterprise fees are useful for producers and hubs who are working together: it a
 
 For example a hub may choose to add an enterprise fee of 10% to all the products they sell, to cover their administration costs \(storage of products prior to distribution, salaries of people who manage and coordinate sales...\)
 
-For producers selling their own products directly, these costs are already present in the price of the product, so applying Enterprise Fees may not seem necessary. 
+For producers selling their own products directly, these costs are already present in the price of the product, so applying Enterprise Fees may not seem necessary.
 
-One of the many benefits to OFN customers is price transparency.  Shoppers can see the percentage of an item's price assigned to admin, packing etc.  This information is displayed by clicking on the pie chart next to the price of a product on the shop front:
+One of the many benefits to OFN customers is price transparency. Shoppers can see the percentage of an item's price assigned to admin, packing etc. This information is displayed by clicking on the pie chart next to the price of a product on the shop front:
 
 ![An enterprise fee in a shopfront](../../.gitbook/assets/enterprsie-fee-in-shopfront.png)
 
@@ -23,15 +23,15 @@ Before you move on you might like to have a look at a quick demonstration of set
 
 **Enterprise:** In the first column, select the enterprise to which the fee applies.
 
-**Fee Type:** Select the service that this fee applied to.  The options are Packing Fee,  Transport Fee, Admin Fee, Sales Fee or Fundraising Fee.
+**Fee Type:** Select the service that this fee applied to. The options are Packing Fee, Transport Fee, Admin Fee, Sales Fee or Fundraising Fee.
 
 **Name:** Choose a name for this fee.
 
-**Tax Category:** Select the appropriate tax rate.  In most cases the VAT rate for the enterprise fee will be inherited from the product.  If the enterprise fee is associated with a service added to the product the fee may be subject to VAT but the product itself not. In which case choose between 'Zero rated', 'Full Rate' and 'Reduced Rate' of VAT to applied to Enterprise fees.
+**Tax Category:** Select the appropriate tax rate. In most cases the VAT rate for the enterprise fee will be inherited from the product. If the enterprise fee is associated with a service added to the product the fee may be subject to VAT but the product itself not. In which case choose between 'Zero rated', 'Full Rate' and 'Reduced Rate' of VAT to applied to Enterprise fees.
 
 **Calculator:** The fee can be calculated in a number of ways. Select the calculator which best applies.
 
-Click Update, to create the enterprise fee. 
+Click Update, to create the enterprise fee.
 
 {% hint style="info" %}
 You will only be able to specify rates or values \(in the 'calculator values' column after the Enterprise Fee has been created.
@@ -49,7 +49,7 @@ You will only be able to specify rates or values \(in the 'calculator values' co
 
 **Flat Rate \(per order\)** – This fee is applied as standard fee to all orders, regardless of the size of the order.
 
-**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the enterprise can be reduced or zero when the threshold number of items has been reached. 
+**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the enterprise can be reduced or zero when the threshold number of items has been reached.
 
 * ‘First Item Cost’: The fee charged for the first item in the order.
 * ‘Additional Item Cost’: The fee charged for items beyond the first item.

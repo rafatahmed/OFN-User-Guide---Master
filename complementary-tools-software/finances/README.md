@@ -8,5 +8,3 @@ Step-by-step instructions for downloading OFN sale data and importing into **Xer
 
 The option for Hubs to reimburse their supplying producers for goods supplied by **ABA files** is available for Australian OFN users only. [Read on for details on how to implement this](paying-suppliers.md).
 
-
-

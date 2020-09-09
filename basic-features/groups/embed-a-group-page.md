@@ -1,8 +1,8 @@
 # Embed a Group Page in a Website
 
-It is now possible to embed a group page into a website external to OFN. Here you will find step by step instructions for setting this up.  This feature is relatively new, and has not been comprehensively tested across all platforms. Please [contact your local OFN ](https://www.openfoodnetwork.org/find-your-local-open-food-network/)if you experience issues with embedding a group page in your website. 
+It is now possible to embed a group page into a website external to OFN. Here you will find step by step instructions for setting this up. This feature is relatively new, and has not been comprehensively tested across all platforms. Please [contact your local OFN ](https://www.openfoodnetwork.org/find-your-local-open-food-network/)if you experience issues with embedding a group page in your website.
 
-## Pre-requisites for Embedding a Group Page 
+## Pre-requisites for Embedding a Group Page
 
 ### Platform
 
@@ -28,7 +28,7 @@ First of all, you’ll need to contact [your local OFN team](https://openfoodnet
 
 **2\) Adding Custom HTML to your website**
 
-Embedding your group page is as simple as inserting a line of code into your website. Below is an example of the HTML that you should insert into the page where you want to embed your OFN group page. You will need to replace ‘flavour-crusader’ with your shop’s unique OFN permalink. 
+Embedding your group page is as simple as inserting a line of code into your website. Below is an example of the HTML that you should insert into the page where you want to embed your OFN group page. You will need to replace ‘flavour-crusader’ with your shop’s unique OFN permalink.
 
 ```text
 <iframe src="/groups/flavour-crusader?embedded_shopfront=true"style="width:100%;min-height:35em"></iframe>

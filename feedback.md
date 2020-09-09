@@ -1,10 +1,10 @@
-# Feedback
+# تغذية راجعة
 
-Do you have an idea for how a feature could be improved?
+هل لديك فكرة عن كيفية تحسين الميزة؟
 
-Is there something you need help with that you can't find in the guide?
+هل هناك شيء كنت بحاجة إلى مساعدة مع ذلك لم تتمكن من العثور في الدليل؟
 
-Please get in touch, we're here to help.
+يرجى التواصل معنا ، نحن هنا للمساعدة.
 
-Email: hello@openfoodnetwork.org
+البريد الالكتروني : admin@flaha.org
 

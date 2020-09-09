@@ -20,5 +20,3 @@ Any changes you make to the core subscription, while an OC is open, will carry o
 
 No, if a customer cancels their subscription order or removes a product from it, that stock will be returned to the products's In Stock? value. It won't automatically be allocated to other customers, but you could now add this stock to another customer's order manually by [editing their order](../orders/view-orders.md#editing-an-order).
 
-
-

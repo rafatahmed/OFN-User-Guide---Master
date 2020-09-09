@@ -45,7 +45,7 @@ Changing all your enterprise's payment methods to 'Back Office Only' will result
 
 * **Calculator:** Select how you would like any charges associated with the payment method to apply to an order. Note that payment method fees can be set to zero. See below for more information about [Payment Method Fees](payment-methods.md#fee-calculators). 
 
-By clicking Create, the payment method will be created and you will have new fields to define payment method fees. These fields visible depend on which 'Calculator' you selected. 
+By clicking Create, the payment method will be created and you will have new fields to define payment method fees. These fields visible depend on which 'Calculator' you selected.
 
 {% hint style="info" %}
 If you change the Payment Method fee 'Calculator' field you must first save your changes \(Update\) for the new associated fields to become visible.
@@ -64,11 +64,11 @@ To setup a PayPal payment method, you need a PayPal business or merchant account
 
 ![](../../.gitbook/assets/paypalmay1.jpg)
 
-3. Select 'Update' from API Access
+1. Select 'Update' from API Access
 
 ![](../../.gitbook/assets/paypalmay2.jpg)
 
-4. Select 'Manage API credentials' from the custom checkout experience option.
+1. Select 'Manage API credentials' from the custom checkout experience option.
 
 ![](../../.gitbook/assets/paypalmay3.jpg)
 
@@ -98,7 +98,7 @@ Type “Login” to direct customer to the login form for PayPal \(if you select
 {% endtab %}
 
 {% tab title="MIGS" %}
- MasterCard Internet Gateway Service \(MIGS\)
+MasterCard Internet Gateway Service \(MIGS\)
 
 Set up of this service needs to be done through your bank. So far it has been tested with Bendigo Bank.
 {% endtab %}
@@ -160,7 +160,7 @@ When a customer pays for their order with Stripe, the funds \(minus Stripe's fee
 
 **Taking further payment**
 
-If you need to take additional payment from a customer because they have further balance due,  you can create an invoice in Stripe. The customer will get sent an email asking for them to pay with Credit/Debit card. This won't be communicated to OFN, so you'll need to mark the payment off manually.
+If you need to take additional payment from a customer because they have further balance due, you can create an invoice in Stripe. The customer will get sent an email asking for them to pay with Credit/Debit card. This won't be communicated to OFN, so you'll need to mark the payment off manually.
 
 ![](../../.gitbook/assets/image%20%2831%29.png)
 {% endtab %}
@@ -182,7 +182,7 @@ For Pin Payments you only require your API key. You need to set up an account wi
 
 ![](../../.gitbook/assets/fee-calculators.png)
 
-You can attach a fee to payment methods. Most commonly this is used to pass on a payment portal's fees to the customer.  For example, you may wish to charge the customer for the convenience of paying by PayPal to cover the fee charged by PayPal.
+You can attach a fee to payment methods. Most commonly this is used to pass on a payment portal's fees to the customer. For example, you may wish to charge the customer for the convenience of paying by PayPal to cover the fee charged by PayPal.
 
 {% hint style="danger" %}
 Payment Method Fees DO NOT include tax \(VAT\)
@@ -190,11 +190,11 @@ Payment Method Fees DO NOT include tax \(VAT\)
 
 ### Fee Calculators
 
-**Flat Percent:**  This fee is charged as a percentage of the total amount charged in the order.
+**Flat Percent:** This fee is charged as a percentage of the total amount charged in the order.
 
 **Flat Rate \(per order\):** This fee is applied as standard fee to all orders, regardless of the size of the order.
 
-**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the cost of payment can be reduced or zero when the threshold number of items has been reached. 
+**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the cost of payment can be reduced or zero when the threshold number of items has been reached.
 
 * ‘First Item Cost’: The fee charged for the first item in the order.
 * ‘Additional Item Cost’: The fee charged for items beyond the first item.
@@ -215,12 +215,12 @@ Payment Method Fees DO NOT include tax \(VAT\)
 ![](../../.gitbook/assets/paymentpc.jpg)
 
 {% hint style="info" %}
-Payment portals often charge businesses a fixed amount per transaction plus a small % of the total cost.  Thus fees encountered by a Hub or Shop for customers who purchase the same total amount in multiple small sales will be higher than if the customer did all their shopping at once. 
+Payment portals often charge businesses a fixed amount per transaction plus a small % of the total cost. Thus fees encountered by a Hub or Shop for customers who purchase the same total amount in multiple small sales will be higher than if the customer did all their shopping at once.
 
 The Flexible Rate and Price Sack calculators, applied to payment method fees, may prove useful to counter balance this.
 {% endhint %}
 
 ## Refunds
 
-Issuing and managing refunds depends on how a customer originally paid for  their order.  More details are found [here](../orders/refund-payments.md).
+Issuing and managing refunds depends on how a customer originally paid for their order. More details are found [here](../orders/refund-payments.md).
 

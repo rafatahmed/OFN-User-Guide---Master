@@ -21,11 +21,11 @@ In all cases, if a customer with a subscription order wishes to purchase a produ
 
 ## Shipping and Payment methods for Subscriptions
 
-When you are creating the customer's subscription, you'll need to select which shipping method they'll use and which payment method they'll be billed with.  This will then subsequently apply to all following orders placed on their behalf by the subscriptions
+When you are creating the customer's subscription, you'll need to select which shipping method they'll use and which payment method they'll be billed with. This will then subsequently apply to all following orders placed on their behalf by the subscriptions
 
 ### **Shipping methods**
 
-You can apply any [shipping/delivery method](../shopfront/shipping-methods.md) to a subscription. 
+You can apply any [shipping/delivery method](../shopfront/shipping-methods.md) to a subscription.
 
 ### **Payment methods**
 
@@ -40,12 +40,12 @@ Customers will not be charged if they cancel their subscription order.
 {% endhint %}
 
 {% hint style="warning" %}
-For the customer to be debited correctly, it is necessary for them to have an account on the Open Food Network platform.  To their OFN account they must have registered a default credit card and given their authorisation for your enterprise to debit from that card.  More information can be found [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges).  
+For the customer to be debited correctly, it is necessary for them to have an account on the Open Food Network platform. To their OFN account they must have registered a default credit card and given their authorisation for your enterprise to debit from that card. More information can be found [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges).
 {% endhint %}
 
 {% hint style="success" %}
-If you use Stripe as the payment method for subscriptions it is helpful to the customer if you add a clear, detailed explanation of how the payment will be processed, should they choose this option.  
-  
+If you use Stripe as the payment method for subscriptions it is helpful to the customer if you add a clear, detailed explanation of how the payment will be processed, should they choose this option.
+
 For example, rather than calling the [payment method](../shopfront/payment-methods.md) 'Credit card' you might like to call it 'automated credit card billing for subscriptions'. A possible description could be 'Your default credit card saved in your OFN account will be charged when your subscription order is confirmed on Wednesday nights'. This name and description will show on the email confirmation to subscription customers \(see example below\), so it's good to make it details so the customer knows what to expect.
 {% endhint %}
 
@@ -55,13 +55,13 @@ For example, rather than calling the [payment method](../shopfront/payment-metho
 
 To setup a subscription for a customer you'll need to get some information from them, as detailed below:
 
-**Name**, **phone number** and **email address:** Remember that any customer wishing to have an automated regular order \(subscription\) with your enterprise MUST have a registered and confirmed user account on the OFN platform.  Customers with subscriptions must be on your enterprise [Customer List](../shopfront/customer-management-and-conditional-displays-prices/customers.md). See [below](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list) for more details.
+**Name**, **phone number** and **email address:** Remember that any customer wishing to have an automated regular order \(subscription\) with your enterprise MUST have a registered and confirmed user account on the OFN platform. Customers with subscriptions must be on your enterprise [Customer List](../shopfront/customer-management-and-conditional-displays-prices/customers.md). See [below](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list) for more details.
 
 **Billing and shipping address**
 
 **Products:** Which items do they want to include in their subscription?
 
-**Shipping/Delivery method**: You need to assign a shipping/delivery/collection method to their subscription order.  How would they prefer to receive the goods?
+**Shipping/Delivery method**: You need to assign a shipping/delivery/collection method to their subscription order. How would they prefer to receive the goods?
 
 **Payment method**: Customers can select from your manual payment methods \(e.g. cash, bank transfer\), or paying with their credit card through your shop's Stripe account. If the customer wishes to pay for their subscription orders by Stripe then they will need to add a default payment card and give authorisation. See [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) for more details.
 
@@ -69,9 +69,9 @@ To setup a subscription for a customer you'll need to get some information from 
 
 ## Add your subscribers to your customer list
 
-Before you can setup a subscription order for a customer they need to be added to your [Customers list](../shopfront/customer-management-and-conditional-displays-prices/customers.md). 
+Before you can setup a subscription order for a customer they need to be added to your [Customers list](../shopfront/customer-management-and-conditional-displays-prices/customers.md).
 
-**After you've added your customers to your customer list email them** and [ask them to sign up for an account on OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn).  If you plan to bill customers using Stripe, you need to also request that they follow the additional steps outlined [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) for adding a default credit/debit card to their OFN user account and giving your enterprise authorisation to take payments.
+**After you've added your customers to your customer list email them** and [ask them to sign up for an account on OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn). If you plan to bill customers using Stripe, you need to also request that they follow the additional steps outlined [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) for adding a default credit/debit card to their OFN user account and giving your enterprise authorisation to take payments.
 
 {% hint style="info" %}
 You can add customers to your Customer list before or after they've signed up for an account with OFN. However, before a subscription order can be successfully setup the customer must have confirmed the email address to which their OFN account is registered.
@@ -95,16 +95,16 @@ If you are new to OFN we encourage you to get familiar with setting up [order cy
 
 ### About Schedules
 
-Subscriptions are setup so that every time an enterprise opens an order cycle, orders can be automatically generated for customers who have a subscription with that shop.  The frequency with which a subscription order is placed for a particular customer \(ie which of your active order cycles triggers their subscription\) is controlled by a facility called '**Schedules**'.  
+Subscriptions are setup so that every time an enterprise opens an order cycle, orders can be automatically generated for customers who have a subscription with that shop. The frequency with which a subscription order is placed for a particular customer \(ie which of your active order cycles triggers their subscription\) is controlled by a facility called '**Schedules**'.
 
-Schedules are groups that order cycle can be assigned to. Once a schedule has been created, customer subscriptions are applied to the schedule, so that an order for their subscription will only be generated for new order cycles in that schedule.  
+Schedules are groups that order cycle can be assigned to. Once a schedule has been created, customer subscriptions are applied to the schedule, so that an order for their subscription will only be generated for new order cycles in that schedule.
 
 {% hint style="info" %}
 You may have some customers who would like a regular order every week, in which case you would add their subscriptions to a schedule which includes all of your weekly order cycles. For other groups of customers, desiring their orders only fortnightly/monthly you can create additional schedules which only include alternate/one-in-four of your weekly order cycles.
 {% endhint %}
 
 {% hint style="success" %}
-There's lots of flexibility in this arrangement and so feel free to experiment to come up with the order cycle-schedule combination which works best for your enterprise.  For example you may wish to have 'odd week' and 'even week' schedules, 'wholesale' schedules, 'monthly meat' schedules....
+There's lots of flexibility in this arrangement and so feel free to experiment to come up with the order cycle-schedule combination which works best for your enterprise. For example you may wish to have 'odd week' and 'even week' schedules, 'wholesale' schedules, 'monthly meat' schedules....
 {% endhint %}
 
 ### Create a schedule
@@ -132,7 +132,7 @@ Click **create** when you are finished.
 
 ### Edit or Delete a schedule
 
-To edit or delete a schedule, click on the schedule’s name next to a corresponding order cycle, in the ‘schedules’ column.  \(The 'Schedules' column may need to be made visible by ticking it in the drop-down columns menu at the top right.\)
+To edit or delete a schedule, click on the schedule’s name next to a corresponding order cycle, in the ‘schedules’ column. \(The 'Schedules' column may need to be made visible by ticking it in the drop-down columns menu at the top right.\)
 
 ![](../../.gitbook/assets/show-schedules.bin)
 
@@ -151,8 +151,6 @@ You can add and remove order cycles from schedules by either editing the schedul
 ![](../../.gitbook/assets/ordercycle3.jpg)
 
 {% hint style="success" %}
-Order cycles can be in more than one schedule.  For example if your order cycles are weekly but you have three schedules \(weekly, fortnightly-odd weeks and fortnightly-even weeks\) then one order cycle might be associated with both the 'weekly' and 'fortnightly-odd' week schedules.
+Order cycles can be in more than one schedule. For example if your order cycles are weekly but you have three schedules \(weekly, fortnightly-odd weeks and fortnightly-even weeks\) then one order cycle might be associated with both the 'weekly' and 'fortnightly-odd' week schedules.
 {% endhint %}
-
-
 

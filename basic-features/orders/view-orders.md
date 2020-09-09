@@ -1,6 +1,6 @@
 # View Orders
 
-Within the admin interface there are two places where orders can be viewed and modified \(if necessary\):  the [Orders](view-orders.md#listing-orders) page itself, and the [Bulk Order Management](view-orders.md#bulk-order-management) page.   
+Within the admin interface there are two places where orders can be viewed and modified \(if necessary\): the [Orders](view-orders.md#listing-orders) page itself, and the [Bulk Order Management](view-orders.md#bulk-order-management) page.  
 The features of both these two pages are discussed below.
 
 ## Listing orders
@@ -71,7 +71,7 @@ Another source of potential confusion to be aware of is when customers pay for a
 
 ### **Editing an order**
 
-To the right of an order you will see a pen and paper icon.  Click on this to access the order management page where you can edit, modify and cancel: 
+To the right of an order you will see a pen and paper icon. Click on this to access the order management page where you can edit, modify and cancel:
 
 ![](../../.gitbook/assets/edit-order.png)
 
@@ -83,8 +83,8 @@ This is what the order management page looks like:
 
 #### **Adding and removing products from an order**
 
-You can add a product to the order by selecting the variant you require from a drop down list of those available \(at least 3 letters must be typed in to the field box 'Select Variant' for list of options to appear\).   
-To remove a product from an order click the rubbish bin icon on the right hand side of the product.   
+You can add a product to the order by selecting the variant you require from a drop down list of those available \(at least 3 letters must be typed in to the field box 'Select Variant' for list of options to appear\).  
+To remove a product from an order click the rubbish bin icon on the right hand side of the product.  
 You can also change the quantity of each item ordered. Remember to click the **update and recalculate fees** button to save changes \(this will also update enterprise, shipping and payment method fees accordingly, where appropriate\).
 
 **Additional options available under 'Actions'**
@@ -97,7 +97,7 @@ You can also change the quantity of each item ordered. Remember to click the **u
 ![](../../.gitbook/assets/invoicenew.jpg)
 
 {% hint style="danger" %}
-Please check regional regulations regarding the information legally required to be on an invoice.  Currently our invoices are not compliant to French law. Invoices for enterprises which are registered for VAT are not compliant under UK law.  
+Please check regional regulations regarding the information legally required to be on an invoice. Currently our invoices are not compliant to French law. Invoices for enterprises which are registered for VAT are not compliant under UK law.  
 We hope to bring about updates to correct these aspects. In the meantime you may wish to invoice through a [complementary software package](../../complementary-tools-software/).
 {% endhint %}
 
@@ -112,7 +112,7 @@ Customer information \(email, billing, shipping addresses and phone numbers\) ar
 
 #### **Modify an Order**
 
-Click on 'Adjustments' in the right hand menu \(screen shot above\).  On this page you can add or subtract from the order total by selecting the **+ New Adjustment button**.
+Click on 'Adjustments' in the right hand menu \(screen shot above\). On this page you can add or subtract from the order total by selecting the **+ New Adjustment button**.
 
 ![](../../.gitbook/assets/orderadjust.jpg)
 
@@ -148,7 +148,7 @@ To print invoices only for those orders associated with a specific Shipping Meth
 
 ## Bulk order management
 
-We have learned above that the [Listing Orders](view-orders.md#listing-orders) tab presents a table of the **orders per customer**. This page, on the other hand, details all the products that were purchased in your orders.   
+We have learned above that the [Listing Orders](view-orders.md#listing-orders) tab presents a table of the **orders per customer**. This page, on the other hand, details all the products that were purchased in your orders.  
 This functionality is useful for modifying multiple orders at once that may contain the same product \(quantity change, product out of stock etc\). The page looks like:
 
 ![](../../.gitbook/assets/bom3.jpg)
@@ -174,7 +174,7 @@ Rows \('Name', 'Producer', 'Product: Unit'\) can be sorted according to their co
 {% endhint %}
 
 {% hint style="warning" %}
-The **Price** column indicates price of an item including tax but excluding fees \(enterprise, shipping or payment method fees\).  Fees are recalculated each time an order is modified.
+The **Price** column indicates price of an item including tax but excluding fees \(enterprise, shipping or payment method fees\). Fees are recalculated each time an order is modified.
 {% endhint %}
 
 ### Examples of using Bulk Order Management:
@@ -192,7 +192,7 @@ This can be done in bulk order management, as follows:
 
 ![](../../.gitbook/assets/bomtom1.jpg)
 
-You can then adjust the quantity \(or delete products\) of each unique order in the Quantity column. The Total Quantity Ordered in the box at the top will update automatically as you adjust orders.  
+You can then adjust the quantity \(or delete products\) of each unique order in the Quantity column. The Total Quantity Ordered in the box at the top will update automatically as you adjust orders.
 
 {% hint style="danger" %}
 No automated email will be sent to customers after you have adjusted their orders. It is good practice though, to manually do so else the customer may be disappointed on collection/delivery.
@@ -228,12 +228,12 @@ Your customers can view a list of their orders when they login to the OFN, and c
 
 ![](../../.gitbook/assets/account-login.png)
 
-Here your customers will be able to see the past orders and payments as well as a running balance at your shop \(and any others on OFN where they have placed an order\). 
+Here your customers will be able to see the past orders and payments as well as a running balance at your shop \(and any others on OFN where they have placed an order\).
 
 ![](../../.gitbook/assets/orders.png)
 
 {% hint style="warning" %}
-For non-automated payments \(cash, cheque, bank transfer etc\) the customer's 'balance' will display as 'owing' until you have [manually recorded the payment](view-orders.md#editing-an-order).   
+For non-automated payments \(cash, cheque, bank transfer etc\) the customer's 'balance' will display as 'owing' until you have [manually recorded the payment](view-orders.md#editing-an-order).  
 _**If payments are not updated regularly by a shop/hub manager this can be confusing to your customers as they may have in fact paid but it won't be documented above.**_
 {% endhint %}
 

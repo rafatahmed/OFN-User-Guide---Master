@@ -12,5 +12,5 @@ Follow the quick set up list for your enterprise:
 * [Shop](producer-shop-quick-setup-guide.md)
 * [Profile](profile-only-quick-setup-guide.md)
 
-Not sure which enterprise you are?  Have a look at this [page](../your-quick-start-on-ofn-given-who-you-are.md).
+Not sure which enterprise you are? Have a look at this [page](../your-quick-start-on-ofn-given-who-you-are.md).
 

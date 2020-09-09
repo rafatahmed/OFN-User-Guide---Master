@@ -17,7 +17,7 @@ Low cost no-name one \(USD $33\): Available on Amazon for approx USD $33
 
 How do I setup my machine to be able to print receipts from the OFN?
 
-First you need to install the printer by following the instructions for your operating system provided by your supplier.  \(For an USB printer you might not have to specify the URI; just make sure you use the relevant driver.\)
+First you need to install the printer by following the instructions for your operating system provided by your supplier. \(For an USB printer you might not have to specify the URI; just make sure you use the relevant driver.\)
 
 Then you need to install QZ Tray which is a plug-in for printers that will launch the printing of the receipt without you having to select the printer and click on “print”. You can download the QZ Tray [from this site](https://qz.io/download/#).
 

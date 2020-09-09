@@ -20,7 +20,7 @@
 * [Subscription](basic-features/subscriptions/): A regular automated repeating order of goods from a customer \(e.g. a veg box\)
 * [Tags](basic-features/shopfront/customer-management-and-conditional-displays-prices/): Labels given to customers, order cycles, payment methods and/or shipping methods which can be used to customise buyers' shopping experiences.
 
-## Common Symbols Used on OFN 
+## Common Symbols Used on OFN
 
 ![Copy](.gitbook/assets/copy.jpg)
 
@@ -29,6 +29,4 @@
 ![Delete](.gitbook/assets/trash.jpg)
 
 ![Shipping/Delivery](.gitbook/assets/shipped%20%282%29.png)
-
-
 

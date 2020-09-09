@@ -4,7 +4,7 @@ After completing your [enterprise registration](../register-and-create-your-prof
 
 ![](../../.gitbook/assets/newregister.jpg)
 
-From here you will need to choose the OFN profile which [best matches your business model](../../your-quick-start-on-ofn-given-who-you-are.md). **Without this step, your enterprise account will not be created and, hence, your enterprise will remain invisible on our map.** 
+From here you will need to choose the OFN profile which [best matches your business model](../../your-quick-start-on-ofn-given-who-you-are.md). **Without this step, your enterprise account will not be created and, hence, your enterprise will remain invisible on our map.**
 
 ![](../../.gitbook/assets/newchoose.jpg)
 
@@ -18,7 +18,7 @@ There are three types of profiles for producers:
 
 {% tabs %}
 {% tab title="Producer Profile" %}
-With this option not only will your enterprise will be visible on the OFN map and to customers searching our platform, but you will be able to manage a product catalog. Your products can be distributed and sold through other enterprises which are part of the OFN network. 
+With this option not only will your enterprise will be visible on the OFN map and to customers searching our platform, but you will be able to manage a product catalog. Your products can be distributed and sold through other enterprises which are part of the OFN network.
 
 As a 'Producer Profile' you will not be able to manage your own online shop front. For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/).
 
@@ -30,19 +30,19 @@ You can put the link to your online shop in your enterprise description.
 {% endtab %}
 
 {% tab title="Producer shop" %}
-#### You would like to sell only your own products on OFN
+### You would like to sell only your own products on OFN
 
-This option allows you to run a shopfront which retails only those products in your own catalog. Note that 'Producer Shops' can conduct sales through their own shopfront and/or act as a supplier to other shopfronts \(hubs\). 
+This option allows you to run a shopfront which retails only those products in your own catalog. Note that 'Producer Shops' can conduct sales through their own shopfront and/or act as a supplier to other shopfronts \(hubs\).
 
 For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
 {% endtab %}
 
 {% tab title="Producer Hub \(multi-producer shop\)" %}
-#### You would like to sell your products as well as those of other producers / suppliers 
+### You would like to sell your products as well as those of other producers / suppliers
 
-This option allows you to manage a shop which retails both products made by yourself and those made by other local producers.  You can retail products from any Producer who has given you [permission](create-or-connect-with-your-supplying-producers.md) to do so. 
+This option allows you to manage a shop which retails both products made by yourself and those made by other local producers. You can retail products from any Producer who has given you [permission](create-or-connect-with-your-supplying-producers.md) to do so.
 
- For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
+For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
 {% endtab %}
 {% endtabs %}
 
@@ -54,7 +54,7 @@ Two types of profiles are available to non-producers \(distributors / hubs\):
 
 {% tabs %}
 {% tab title="Non-Producer Profile" %}
-With this option your enterprise will be visible on the OFN map and to customers searching our platform. 
+With this option your enterprise will be visible on the OFN map and to customers searching our platform.
 
 For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
 
@@ -66,25 +66,25 @@ You can put the link to your online shop in your enterprise description.
 {% endtab %}
 
 {% tab title="Non-Producer Hub \(Multi-producer shop\)" %}
-#### You would like to create an online shop
+### You would like to create an online shop
 
-This option allows you to manage a shop which retails products made by others. You can retail products from any Producer who has given you [permission](create-or-connect-with-your-supplying-producers.md) to do so. 
+This option allows you to manage a shop which retails products made by others. You can retail products from any Producer who has given you [permission](create-or-connect-with-your-supplying-producers.md) to do so.
 
- For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
+For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
 {% endtab %}
 {% endtabs %}
 
 ## Changing your profile type
 
-You can change your profile type \(package\) at any time in the future.  ****First log in to your OFN admin account:
+You can change your profile type \(package\) at any time in the future. _\*\*_First log in to your OFN admin account:
 
 ![](../../.gitbook/assets/access1%20%281%29.jpg)
 
-and then visit your [Enterprise Settings menu](enterprise-settings.md). From the table, select the correct option\(s\) from the drop down menus.  \(You will need to be the '[Owner](enterprise-settings.md#users)' of the enterprise to do this.\)
+and then visit your [Enterprise Settings menu](enterprise-settings.md). From the table, select the correct option\(s\) from the drop down menus. \(You will need to be the '[Owner](enterprise-settings.md#users)' of the enterprise to do this.\)
 
 ![](../../.gitbook/assets/change-package.png)
 
 ## Next step
 
-Once you have chosen the correct profile type for your food business you can complete any missing information and further refine your setup under the [Enterprise Settings](enterprise-settings.md) menu. 
+Once you have chosen the correct profile type for your food business you can complete any missing information and further refine your setup under the [Enterprise Settings](enterprise-settings.md) menu.
 

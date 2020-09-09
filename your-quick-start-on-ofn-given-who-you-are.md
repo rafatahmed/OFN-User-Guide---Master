@@ -15,7 +15,7 @@ _The flexibility of the Open Food Network software allows you to change from pro
 ## Hub
 
 {% hint style="success" %}
-Farmers' Market, Veg box scheme, Crofting Groups, Social Food Community groups, Food Coops, Food hubs, CSA, Market/City gardens,  Retail shops, Food Banks, Wholesale Distributors...
+Farmers' Market, Veg box scheme, Crofting Groups, Social Food Community groups, Food Coops, Food hubs, CSA, Market/City gardens, Retail shops, Food Banks, Wholesale Distributors...
 {% endhint %}
 
 Hubs can take many forms but, in essence, your enterprise is best classified as a 'Hub' on OFN if you wish to **sell produce made by others.** You can retail your own products alongside those of other farmers, bakers, growers... \(a '**Producer Hub**'\) or act solely as a distributor to sell a collection of groceries made by \(local\) enterprises \(a '**Non-Producer Hub**'\).
@@ -24,7 +24,7 @@ Hubs can take many forms but, in essence, your enterprise is best classified as 
 If you'd prefer to sell only products that **you** make then the '[shop](your-quick-start-on-ofn-given-who-you-are.md#shop)' classification suites your needs better.
 {% endhint %}
 
-#### OFN can help your hub thrive and prosper by:
+### OFN can help your hub thrive and prosper by:
 
 1. Increasing your online visibility.
 2. Providing your customers with a virtual 'farmers' market' experience
@@ -55,7 +55,7 @@ As a shop; as well as selling directly to customers through your shop front; you
 If you'd prefer not to organise sales to customers directly but would like to **only** supply an OFN hub with goods then the '[Profile](your-quick-start-on-ofn-given-who-you-are.md#profile)' classification suits your needs better.
 {% endhint %}
 
-#### OFN can help your shop thrive and prosper by:
+### OFN can help your shop thrive and prosper by:
 
 1. Increasing your online visibility.
 2. Streamlining your admin tasks with stock levels, orders, finances, packing reports all in one place.
@@ -78,7 +78,7 @@ An OFN profile is ideal for **increasing your online visibility** and gives you 
 If you'd prefer to organise sales to customers yourself then the '[shop](your-quick-start-on-ofn-given-who-you-are.md#shop)' or '[Hub](your-quick-start-on-ofn-given-who-you-are.md#hub)' classification is better suited to your needs.
 {% endhint %}
 
-#### OFN can help your food enterprise thrive and prosper by:
+### OFN can help your food enterprise thrive and prosper by:
 
 1. Increasing your online visibility.
 2. Helping to build strong working relationships with local food distributors and retailers \(OFN hubs\) to whom you supply goods.

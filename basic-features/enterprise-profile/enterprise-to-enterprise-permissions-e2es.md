@@ -1,8 +1,8 @@
 # Enterprise Permissions
 
-## Enterprise Permissions 
+## Enterprise Permissions
 
-Within the OFN Enterprise Permissions are rules which govern the trading relationships between businesses: suppliers and distributors. These rules must be set up before one company \(Producer Profile or Producer Shop\) can become a supplier of another \(Hub\), or vice versa. A permission \(or 'right'\) is granted by one company to another regarding access / modification of products and profile. This page details the different permissions and how to allocate them. 
+Within the OFN Enterprise Permissions are rules which govern the trading relationships between businesses: suppliers and distributors. These rules must be set up before one company \(Producer Profile or Producer Shop\) can become a supplier of another \(Hub\), or vice versa. A permission \(or 'right'\) is granted by one company to another regarding access / modification of products and profile. This page details the different permissions and how to allocate them.
 
 To access your enterprise permissions:
 
@@ -19,9 +19,9 @@ There are 4 different types of Enterprise permissions. They can combine in diffe
 
 ![](../../.gitbook/assets/e2emenu2.jpg)
 
-**Permission to add to order cycle**: the supplier \(producer\) allows the distributor \(an OFN Hub\) to add products to the latter's order cycles.  Thus, products from the supplier can appear on the hub's shopfront.
+**Permission to add to order cycle**: the supplier \(producer\) allows the distributor \(an OFN Hub\) to add products to the latter's order cycles. Thus, products from the supplier can appear on the hub's shopfront.
 
-**Permission to manage products**: the supplier authorises another OFN registered enterprise \(typically a hub\) to create, delete and modify products directly in its supplier catalog. 
+**Permission to manage products**: the supplier authorises another OFN registered enterprise \(typically a hub\) to create, delete and modify products directly in its supplier catalog.
 
 {% hint style="danger" %}
 This can potentially impact all hubs which the producer supplies with goods through OFN.
@@ -39,7 +39,7 @@ If a producer supplies more than one hub with goods, then to allow each of these
 
 ## Granting and Managing Permissions
 
-To modify, add or delete permissions, go to the admin dashboard and then to  'Enterprises' on the blue menu and 'Permissions' on the green sub-menu. 
+To modify, add or delete permissions, go to the admin dashboard and then to 'Enterprises' on the blue menu and 'Permissions' on the green sub-menu.
 
 ![](../../.gitbook/assets/e2emenu.jpg)
 
@@ -50,7 +50,7 @@ To give permission:
 * Tick the permissions you wish to grant the distributor of your goods \(hub\) or to grant multiple permissions select 'everything'.
 * Click on 'Create'.
 
- Note that you can delete or change these permissions at any time.
+  Note that you can delete or change these permissions at any time.
 
 {% hint style="warning" %}
 Only users listed as [Managers](enterprise-settings.md#users) of an enterprise can change its permissions.
@@ -72,11 +72,11 @@ The system is configured so that hubs creating producer profiles will have the _
 
 > **My** [**supplier already has an enterprise registered with OFN**](create-or-connect-with-your-supplying-producers.md#supplyingproducer)**. I would like to add their products to my hub shopfront.**
 
-You must contact your supplier in person. Their contact details \(phone number, address and email address\) will be located in their OFN profile.  
+You must contact your supplier in person. Their contact details \(phone number, address and email address\) will be located in their OFN profile.
 
-If you only intend to _**stock their products**_ and don't wish to help them manage the rest of their OFN profile then ask the producer to grant permission _**to add to order cycle**_ and permission _**to add to inventory.**_ 
+If you only intend to _**stock their products**_ and don't wish to help them manage the rest of their OFN profile then ask the producer to grant permission _**to add to order cycle**_ and permission _**to add to inventory.**_
 
-If the supplier wishes for you, as a Hub manager, to help them organise their OFN enterprise then they may grant you all four permissions.  Should this occur then you will be able to edit their profile and manage their products.
+If the supplier wishes for you, as a Hub manager, to help them organise their OFN enterprise then they may grant you all four permissions. Should this occur then you will be able to edit their profile and manage their products.
 
 > **My Hub distributes through buying groups. Which permissions will the buying group need with my hub and my producers?**
 
@@ -106,7 +106,7 @@ These examples explore some common scenarios.
 
 In order for your products to be distributed by the buying groups you will have to add a minimum of permission 'to add to order cycle' for the buying group enterprise _as well as_ the hub you supply directly.
 
-> **I am a Producer Shop who supplies a local Hub as well as running my own shopfront.  The hub would like to manage the stock levels and prices of my products.  I would like to** _**also**_ **manage stock levels and prices of my products.**
+> **I am a Producer Shop who supplies a local Hub as well as running my own shopfront. The hub would like to manage the stock levels and prices of my products. I would like to** _**also**_ **manage stock levels and prices of my products.**
 
 This scenario can be solved by granting the hub permission to add to Inventory as well as permission to add to order cycle.
 

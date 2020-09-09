@@ -6,17 +6,17 @@ This page details what a customer with a subscription can expect. It also highli
 
 Customers must have an account with OFN before you can process subscription orders for them.
 
-To create an account, direct the customer to the local Open Food Network home page and 'Login' at the top right hand corner.  They'll be guided through registering with OFN. _**Customers must have an active email address to register**_.
+To create an account, direct the customer to the local Open Food Network home page and 'Login' at the top right hand corner. They'll be guided through registering with OFN. _**Customers must have an active email address to register**_.
 
-After signing up they'll be sent a confirmation email. Once they click on the link in this email their account will be confirmed and they will be able to login. 
+After signing up they'll be sent a confirmation email. Once they click on the link in this email their account will be confirmed and they will be able to login.
 
 {% hint style="info" %}
-Due to over zealous email filters \(designed to ward off spam\) sometimes customers won't receive their confirmation email from us \(or it will be directed to their junk folder\).  If this occurs ask them to add open food network to their 'safe' list in their email account settings.
+Due to over zealous email filters \(designed to ward off spam\) sometimes customers won't receive their confirmation email from us \(or it will be directed to their junk folder\). If this occurs ask them to add open food network to their 'safe' list in their email account settings.
 {% endhint %}
 
 ## Saving credit cards and authorising charges
 
-Customer who want to pay for their subscription orders via automated charges onto their credit/debit card \(Stripe\) need to a\) save their preferred card in their OFN account and b\) grant the shop permission to charge that card. 
+Customer who want to pay for their subscription orders via automated charges onto their credit/debit card \(Stripe\) need to a\) save their preferred card in their OFN account and b\) grant the shop permission to charge that card.
 
 ### Saving credit card details in the customer account
 
@@ -26,9 +26,9 @@ The Customer's Account page can be accessed after logging into OFN by the top ri
 
 Your customer can save one or more cards in their account, in the **credit cards** tab.
 
-![](../../.gitbook/assets/subcard2.jpg)
+![](../../.gitbook/assets/subcard2%20%281%29.jpg)
 
-If a customer registers more than one debit/credit card, then the card which is denoted as 'default' will be the one which is charged automatically by Stripe \(if they have a subscription with Stripe as the chosen payment method\). 
+If a customer registers more than one debit/credit card, then the card which is denoted as 'default' will be the one which is charged automatically by Stripe \(if they have a subscription with Stripe as the chosen payment method\).
 
 {% hint style="danger" %}
 If none of their cards are selected as 'default' their credit card payments won't be processed.

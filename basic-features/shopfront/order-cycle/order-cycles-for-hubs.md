@@ -1,15 +1,15 @@
 # Order Cycles \(for Hubs\)
 
 {% hint style="warning" %}
-Read on if you selected the Enterprise Profile '[Producer or Non Producer Hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub)'. 
+Read on if you selected the Enterprise Profile '[Producer or Non Producer Hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub)'.
 
 Visit this [page](order-cycles-for-producers.md), if you registered as a '[Producer Shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)' and want to set up an order cycle for your shop front.
 {% endhint %}
 
 You open you shop by creating an Order Cycle. When you make an order cycle you select when you shop is open \(from and until\), which products will go into the shop, and any fees that you'll apply.
 
-**Why Order Cycles?**    
-Some hubs may wish to have an online store which is perpetually open, and to fulfill orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their production, packing and distribution activities more efficient \(and reducing associated overhead costs\). 
+**Why Order Cycles?**  
+Some hubs may wish to have an online store which is perpetually open, and to fulfill orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their production, packing and distribution activities more efficient \(and reducing associated overhead costs\).
 
 For example, an order cycle might be open for two weeks. At the end of the fortnight, all orders will be packed and delivered at the same time on the following Wednesday. Once this batch of orders has been delivered, a new order cycle may reopen.
 
@@ -21,7 +21,7 @@ A quick demonstration of setting up a new order cycle:
 
 You can create an order cycle, and view previous order cycles by clicking on **Manage Order Cycles** on your [dashboard](../../dashboard.md).
 
-![](../../../.gitbook/assets/ordercycledash.jpg)
+![](../../../.gitbook/assets/ordercycledash%20%281%29.jpg)
 
 Or from the horizontal menu at the top of the page.
 
@@ -33,8 +33,8 @@ You will not be able to publish a live order cycle until you have at least one [
 
 ## Create a New Order Cycle
 
-The first step is to select a coordinator for your order cycle. Only the enterprise who coordinates an order cycle have permission to modify and manage **all** aspects of the sales cycle.   
-Other enterprises involved in an order cycle \(as suppliers or distributors only\) will have restricted access.   
+The first step is to select a coordinator for your order cycle. Only the enterprise who coordinates an order cycle have permission to modify and manage **all** aspects of the sales cycle.  
+Other enterprises involved in an order cycle \(as suppliers or distributors only\) will have restricted access.  
 For more information on cross-enterprise management in the context of order cycles, [click here](permissions-in-multi-enterprise-order-cycles.md).
 
 ![](../../../.gitbook/assets/ordercycle2.jpg)
@@ -59,16 +59,16 @@ Once the order cycle coordinator has been chosen, the process of setting up is d
 
 ![](../../../.gitbook/assets/ordercycle4.jpg)
 
-On this page you can select the producers, and their produce, which will be available in this order cycle. In the dropdown menu you will see all producers who have granted you permission to add their produce to your order cycle \(See [Enterprise Permissions](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) section\).   
-After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all.** 
+On this page you can select the producers, and their produce, which will be available in this order cycle. In the dropdown menu you will see all producers who have granted you permission to add their produce to your order cycle \(See [Enterprise Permissions](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) section\).  
+After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all.**
 
 {% hint style="info" %}
-Products which are out of stock \(ie their 'in stock' value is zero\) are included in this list.  If added to an order cycle they will not appear on our shop front.  It is always good to double check stock levels. 
+Products which are out of stock \(ie their 'in stock' value is zero\) are included in this list. If added to an order cycle they will not appear on our shop front. It is always good to double check stock levels.
 {% endhint %}
 
-The **Receival Details** field is optional.  Information added to this field will automatically added to any email sent to producers at the end of an order cycle \(after clicking 'Notify Producers'\).  It might be a good idea to include an exact delivery address for produce prior to distribution to customers here.
+The **Receival Details** field is optional. Information added to this field will automatically added to any email sent to producers at the end of an order cycle \(after clicking 'Notify Producers'\). It might be a good idea to include an exact delivery address for produce prior to distribution to customers here.
 
-The **Add Fee** button in this section, at the end of each producer's entry in the table, allows you to add different [enterprise fees](../enterprise-fees.md) to different suppliers. For example, transporting flour or heavy goods to customers may be more expensive for a hub than salad.  Hence, a hub can, in a transparent manner, add a slightly higher enterprise fee to all goods supplied by the flour miller than the salad farmer.
+The **Add Fee** button in this section, at the end of each producer's entry in the table, allows you to add different [enterprise fees](../enterprise-fees.md) to different suppliers. For example, transporting flour or heavy goods to customers may be more expensive for a hub than salad. Hence, a hub can, in a transparent manner, add a slightly higher enterprise fee to all goods supplied by the flour miller than the salad farmer.
 
 Select the name of the enterprise in the first dropdown box, then click the name of the enterprise fee in the second dropdown box. In the example below, an enterprise fee named OrderAdmin is applied to the Producer of Fruit.
 
@@ -80,9 +80,9 @@ This fee will be applied to all of the Producer of Fruit’s products which are 
 
 ### 3\) Outgoing Products
 
-Here you can select one or more hub-distributors.  All hubs chosen to be a distributor in this order cycle will have an open shop front for the duration of the order cycle.  
-In a **simple model**, only one hub is listed as the sole distributor for the order cycle. Select the hub, and check the box 'Select all' to add all incoming products to the shop front.   
-For more flexibility, the same order cycle may have **multiple hub distributors**.  In this case you may wish to select a different subset of the available incoming products for each distributor, and/or, add different delivery dates for each.
+Here you can select one or more hub-distributors. All hubs chosen to be a distributor in this order cycle will have an open shop front for the duration of the order cycle.  
+In a **simple model**, only one hub is listed as the sole distributor for the order cycle. Select the hub, and check the box 'Select all' to add all incoming products to the shop front.  
+For more flexibility, the same order cycle may have **multiple hub distributors**. In this case you may wish to select a different subset of the available incoming products for each distributor, and/or, add different delivery dates for each.
 
 ![](../../../.gitbook/assets/oc3.jpg)
 
@@ -100,12 +100,12 @@ The **Pick-Up Instructions** message will be included in the customer’s order 
 
 ![collection details message](../../../.gitbook/assets/collection-details.png)
 
-**Add Fee:** Again, a previously created enterprise fee can be assigned to this distributor.  For simple models \(with one hub distributor, who also is the coordinator of the order cycle\) adding a fee at this stage is the same as adding a 'Coordinator Fee' \(it will apply to all products\).  
-For complex models, the coordinator may wish to add different fees to all products sold though each distributor.  The best place to implement this functionality is here.
+**Add Fee:** Again, a previously created enterprise fee can be assigned to this distributor. For simple models \(with one hub distributor, who also is the coordinator of the order cycle\) adding a fee at this stage is the same as adding a 'Coordinator Fee' \(it will apply to all products\).  
+For complex models, the coordinator may wish to add different fees to all products sold though each distributor. The best place to implement this functionality is here.
 
 ### Open the shopfront
 
-Click **Save** to schedule the order cycle. If the opening date has already passed, your shop is instantly open! If you are not ready to open right away, enter dates in the future, which you can change later. 
+Click **Save** to schedule the order cycle. If the opening date has already passed, your shop is instantly open! If you are not ready to open right away, enter dates in the future, which you can change later.
 
 For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. See below.
 
@@ -115,7 +115,7 @@ Order cycles will display as green when they are active, yellow when scheduled f
 
 ## **‘Notify Producers’ Button**
 
-By using this button at the top of the page, all the producers linked to the order cycle will receive an email containing a list of the products ordered for that particular order cycle thus far.  Delivery instructions \(if this field is completed in the incoming products section\) will be also sent in the email.
+By using this button at the top of the page, all the producers linked to the order cycle will receive an email containing a list of the products ordered for that particular order cycle thus far. Delivery instructions \(if this field is completed in the incoming products section\) will be also sent in the email.
 
 ![](../../../.gitbook/assets/notifyproducers.jpg)
 

@@ -28,14 +28,14 @@ There are two ways to assign properties to your products:
 
 ## Assigning a property to an enterprise
 
-When you assign a property to an enterprise, all products belonging to that enterprise will, by default, carry that product property. For instance, if all of your products are ‘Certified Organic’, you can assign this property to your enterprise, to save you from needing to manually apply this property to every product. If a property only applies to a few of your products, it’s better to apply it to the product, instead of the enterprise \(instructions below\).  
+When you assign a property to an enterprise, all products belonging to that enterprise will, by default, carry that product property. For instance, if all of your products are ‘Certified Organic’, you can assign this property to your enterprise, to save you from needing to manually apply this property to every product. If a property only applies to a few of your products, it’s better to apply it to the product, instead of the enterprise \(instructions below\).
 
 You can access enterprise properties in your [Enterprise Settings](../enterprise-profile/enterprise-settings.md): in your Admin dashboard go to Enterprises -&gt; Settings -&gt; Properties
 
 ![](../../.gitbook/assets/properties1.jpg)
 
 {% hint style="warning" %}
-Properties only apply to [Producer](../enterprise-profile/package-types.md#for-producers) profiles, shops and hubs.  This option will not be available to Non Producer Hubs.
+Properties only apply to [Producer](../enterprise-profile/package-types.md#for-producers) profiles, shops and hubs. This option will not be available to Non Producer Hubs.
 {% endhint %}
 
 Next, there are 2 fields when applying an enterprise property:
@@ -85,7 +85,7 @@ When editing a product’s properties you will see a checkbox titled **“Inheri
 ![](../../.gitbook/assets/properties3.jpg)
 
 {% hint style="warning" %}
-If you left the box checked and you add a property to the product, which already exists at the enterprise level, the description of the property added at the product level will be preferred to the description at the enterprise level. 
+If you left the box checked and you add a property to the product, which already exists at the enterprise level, the description of the property added at the product level will be preferred to the description at the enterprise level.
 
 This is useful if you would like to modify only the description of a label on selected products. \(For example, if all your products are 'Certified Organic', but two products have a different certificate number to the rest then you can add the main certificate number to the enterprise property description and the other number to the two products which are different using these product property descriptions.\)
 {% endhint %}

@@ -6,7 +6,7 @@ description: >-
 
 # Features
 
-You can browse these features at any time but for those just starting out we recommend our [quick start guides](../quick-start-guides/). 
+You can browse these features at any time but for those just starting out we recommend our [quick start guides](../quick-start-guides/).
 
 {% hint style="info" %}
 To find the explanation of a specific feature that you need, please use the 'Search' field \(top right hand corner\).

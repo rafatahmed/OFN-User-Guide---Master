@@ -49,7 +49,7 @@ Only enterprises marked as Producers can add products to OFN. [Non-Producer Hubs
 
 ### Address
 
-This information is used to geolocate your enterprise the OFN map. Your exact address won't show if you are only registered as a Producer or Non-Producer Profile.  However if you are registered as a Shop or Hub your address will show in text form in your shop front's contact details tab.
+This information is used to geolocate your enterprise the OFN map. Your exact address won't show if you are only registered as a Producer or Non-Producer Profile. However if you are registered as a Shop or Hub your address will show in text form in your shop front's contact details tab.
 
 ### Contact
 
@@ -74,35 +74,25 @@ These differ from country to country and they depend on local regulations and la
 {% endhint %}
 
 {% tabs %}
-{% tab title="Australia" %}
 
-{% endtab %}
 
-{% tab title="Belgium" %}
 
-{% endtab %}
 
-{% tab title="Canada" %}
 
-{% endtab %}
 
-{% tab title="Catalunya" %}
 
-{% endtab %}
 
-{% tab title="France" %}
+
 **Siret:** This information will not be public. It is important for shop owners when they want to issue invoices from the platform.
 
-**N° intra-Community VAT:** This information will not be public. 
+**N° intra-Community VAT:** This information will not be public.
 
 **In VAT scheme?** If you are within the VAT scheme, select "yes".
 
 **Display the logo on the invoice:** You can choose to display or not the logo of your enterprise on the invoices issued from the platform.
 
 **Add a specific mention at the bottom of the invoices:** You can add a specific mention that you would have the obligation or the wish to add on your invoices.
-{% endtab %}
 
-{% tab title="UK" %}
 **Company Number:** For businesses registered at Companies House this is your unique identifying number.
 
 **Charity Number:** If your enterprise is a registered charity
@@ -116,20 +106,16 @@ For advise on selling as a VAT registered enterprise please see this document:
 **Display Logo on Invoices:** if desired.
 
 **Add Customised Text at the end of Invoices:** such as payment details \(if payments are accepted by BACS\) or terms and conditions.
-{% endtab %}
 
-{% tab title="USA" %}
 **ABN:** this will not be displayed publicly. It is required for shop users who want to print invoices.
 
 **ACN:** this will not be displayed publicly.
 
 **Charge GST?**– If you wish to charge GST for your products select ‘yes’.
-{% endtab %}
-{% endtabs %}
 
 ### Images
 
-**Logo image:** This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square \(i.e. 100 x 100\), or it will be cropped/warped. 
+**Logo image:** This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square \(i.e. 100 x 100\), or it will be cropped/warped.
 
 **Promo image:** This image will run horizontally along the top of your profile page. It should be 1200 x 260 pixels in size.
 
@@ -141,15 +127,15 @@ And now in its condensed version \(from the producer listing page\).
 
 ![](../../.gitbook/assets/demohubimages2.jpg)
 
-### Properties 
+### Properties
 
 {% hint style="warning" %}
 Visible to **Producers** only
 {% endhint %}
 
-You can add properties \(such as free range or certified organic\) to your enterprise. These properties will then be automatically applied to **all** of your products. 
+You can add properties \(such as free range or certified organic\) to your enterprise. These properties will then be automatically applied to **all** of your products.
 
-You can also specify properties for particular products only. This is useful if you stock both certified organic and ordinary groceries, for example. More information about this can be found [here](../products-1/product-properties.md). 
+You can also specify properties for particular products only. This is useful if you stock both certified organic and ordinary groceries, for example. More information about this can be found [here](../products-1/product-properties.md).
 
 ### Shipping Methods, Payment Methods & Enterprise Fees
 
@@ -181,9 +167,9 @@ Visible to Shop and Hub registered enterprises only.
 
 Under this menu are all the 'tags' which have been assigned to the customers of your enterprise.
 
-'Tags' are labels you apply to customers, products and other settings to assign differential access, pricing or other benefits to specific groups.  They are particularly useful if you wish to charge loyal customers or 'members' of your food hub preferential prices or allow them to pay by BACS rather than PayPal/Stripe.
+'Tags' are labels you apply to customers, products and other settings to assign differential access, pricing or other benefits to specific groups. They are particularly useful if you wish to charge loyal customers or 'members' of your food hub preferential prices or allow them to pay by BACS rather than PayPal/Stripe.
 
- For more information, visit the ['customer management and conditional displays/prices' section](../shopfront/customer-management-and-conditional-displays-prices/).
+For more information, visit the ['customer management and conditional displays/prices' section](../shopfront/customer-management-and-conditional-displays-prices/).
 
 ### Shop Preferences
 
@@ -191,7 +177,7 @@ Under this menu are all the 'tags' which have been assigned to the customers of 
 Visible to Shop and Hub registered enterprises only.
 {% endhint %}
 
-**Shopfront Message**: This message is optional. If completed the message will be visible under a 'Notices' tab on the top menu bar.  Your shop \(and it's products\) will appear under the 'Shop' tab.
+**Shopfront Message**: This message is optional. If completed the message will be visible under a 'Notices' tab on the top menu bar. Your shop \(and it's products\) will appear under the 'Shop' tab.
 
 ![Shop front with Notices for single order cycle](../../.gitbook/assets/notices-singleoc.jpg)
 
@@ -219,9 +205,9 @@ TIP: Copy and paste your 'ShopFront Message' into the Shopfront Closed Message. 
 
 **Publicly visible shopfront?** If you select ‘public’, any shopper will be able to access your shopfront and place an order. If you select ‘visible to registered customers only’, shoppers who come to your shop will be prompted to login and only those users who are on your customers list will be given access to your shop. Learn more about the [private shop feature](../shopfront/private-shopfront.md).
 
-**Guest Orders?** If you select ‘allow guest checkout’ shoppers won’t need to login to the OFN to shop with you, so they don't need to sign up and have a user account. If you want the extra security of knowing your customers must have an OFN account in order to have placed an order then select "require login to order". 
+**Guest Orders?** If you select ‘allow guest checkout’ shoppers won’t need to login to the OFN to shop with you, so they don't need to sign up and have a user account. If you want the extra security of knowing your customers must have an OFN account in order to have placed an order then select "require login to order".
 
-In order for a customer to have an OFN account they must have confirmed the email sent to them when registering with us.  Thus, by selected "require login to order" it may help limit the number of orders placed that are subsequently never collected as you know that the customer's order confirmation email will be sent to an active email account.
+In order for a customer to have an OFN account they must have confirmed the email sent to them when registering with us. Thus, by selected "require login to order" it may help limit the number of orders placed that are subsequently never collected as you know that the customer's order confirmation email will be sent to an active email account.
 
 {% hint style="warning" %}
 The 'Guest orders' setting is not applicable if you have opted for 'visible to registered customers only'.

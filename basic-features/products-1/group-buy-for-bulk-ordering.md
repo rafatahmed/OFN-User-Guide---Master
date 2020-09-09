@@ -2,7 +2,7 @@
 
 The **Group Buy** function is designed for enterprises who purchase some of their incoming stock in bulk quantities and resell them in smaller units \(for example, purchasing a 25 kg bag of rice and retailing to customers per kg\).
 
-Bulk purchasing is a common practice for **buying groups**, who, by buying large volumes, can benefit from wholesale prices in the same way as conventional distributors.  By dong so, members to access food much cheaper than they might be able to from high street retailers. 
+Bulk purchasing is a common practice for **buying groups**, who, by buying large volumes, can benefit from wholesale prices in the same way as conventional distributors. By dong so, members to access food much cheaper than they might be able to from high street retailers.
 
 For such enterprises, the decision of whether to order a certain product is dependent on whether customers have collectively ordered enough to justify a bulk purchase. This may be due to volume discounts, or delivery fees. The group buy function makes it easier for the hub to achieve bulk buying efficiencies.
 
@@ -23,7 +23,7 @@ In [Bulk Order Management](../orders/view-orders.md#bulk-order-management) you c
 
 ## Enabling Group Buy for a product
 
-On the admin dashboard, go to '**Products**' on the blue horizontal menu.  Select to **Edit** a product by clicking on the pencil and paper icon to the right of the product in question:
+On the admin dashboard, go to '**Products**' on the blue horizontal menu. Select to **Edit** a product by clicking on the pencil and paper icon to the right of the product in question:
 
 ![](../../.gitbook/assets/productedit.jpg)
 
@@ -33,10 +33,10 @@ Then select **Group Buy Options** in the menu to the right.
 
 Select **Yes** under **Group Buy? to activate this feature for the product.**
 
-The **Bulk Unit Size** is the amount that the group’s collective order needs to reach. 
+The **Bulk Unit Size** is the amount that the group’s collective order needs to reach.
 
 {% hint style="warning" %}
-The **units** for the Bulk Unit Size quantity depend on the units selected for retailing the product to customers.  
+The **units** for the Bulk Unit Size quantity depend on the units selected for retailing the product to customers.
 
 If the product is sold by:
 

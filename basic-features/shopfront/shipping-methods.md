@@ -1,7 +1,7 @@
 # Shipping Methods
 
 {% hint style="warning" %}
- You **must** create at least one shipping method before you can open your shop.
+You **must** create at least one shipping method before you can open your shop.
 {% endhint %}
 
 Before you read on, you might like to have look at a quick demonstration of how to set up your first shipping method:
@@ -33,7 +33,7 @@ If you want to inactivate a shipping method for a while but might want to offer 
 * **Categories:** Transport conditions \(refrigeration, frozen, default\) associated with this shipping method.
 * **Zones:** Select the appropriate zone \(this is to enable correct tax calculations\).
 
-By clicking **Create,** the shipping method will be created, and you will then be provided with new fields, to add details of the shipping method charges. The fields presented will depend upon which shipping fee calculator you have selected. 
+By clicking **Create,** the shipping method will be created, and you will then be provided with new fields, to add details of the shipping method charges. The fields presented will depend upon which shipping fee calculator you have selected.
 
 {% hint style="info" %}
 If you change the calculator type for a shipping method, you must **save first** before you can edit the calculator settings.
@@ -49,7 +49,7 @@ If you change the calculator type for a shipping method, you must **save first**
 
 **Flat Rate \(per order\)** – This fee is applied as standard fee to all orders, regardless of the size of the order.
 
-**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the cost of shipping can be reduced or zero when the threshold number of items has been reached. 
+**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the cost of shipping can be reduced or zero when the threshold number of items has been reached.
 
 * ‘First Item Cost’: The fee charged for the first item in the order.
 * ‘Additional Item Cost’: The fee charged for items beyond the first item.
@@ -57,7 +57,7 @@ If you change the calculator type for a shipping method, you must **save first**
 
 ![](../../.gitbook/assets/shippingfeeflex.jpg)
 
-> For example: If the shipping fee for the 'First item cost' is £2, 'Additional Item Cost' = £1 and 'Max items' = 3.   
+> For example: If the shipping fee for the 'First item cost' is £2, 'Additional Item Cost' = £1 and 'Max items' = 3.  
 > A customer who purchases 5 items, will be charged £4 shipping \(£2 for the first item, £1 for items two and three, and £0 for items four and five\).
 
 **Flat Rate \(per item\)** – This fee is a constant fee, applied to products listed as ‘items’. \(It is not applied to products sold by weight or volume. Hence there will be no associated shipping cost charged to a customer who, for example, buys rice by kg\).

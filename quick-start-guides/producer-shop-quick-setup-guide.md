@@ -14,9 +14,9 @@ It's easy to get started on OFN, just follow the steps below:
 4. Set up a choice of [shipping options](../basic-features/shopfront/shipping-methods.md) available to your customers  \('click and collect' service with a pick up time and location, home delivery, ...\)
 5. Set up an [order cycle](../basic-features/shopfront/order-cycle/order-cycles-for-producers.md) : this will open your shop at the start date you defined!
 
-Congrats!  Your shop is now live!
+Congrats! Your shop is now live!
 
-When you start receiving orders, you can manage them in the[ orders](../basic-features/orders/) section.  
+When you start receiving orders, you can manage them in the[ orders](../basic-features/orders/) section.
 
 All the data you need to prepare and deliver the groceries to your customers can be found in the [reports](../basic-features/reports.md) section.
 
@@ -33,5 +33,5 @@ All the data you need to prepare and deliver the groceries to your customers can
   * You can [restrict access](../basic-features/shopfront/private-shopfront.md) to your shop if want your shop to be only accessible to "members" or invited customer.   For example you may offer discounted produce to members of the community who have all contributed to your business, or if you wished to only sell to specific commercial customers.
   * You can offer different prices, or display different goods, to specific groups of customers using [customer grouping \(through "tags"\)](../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) and [custom display and pricing](../basic-features/shopfront/customer-management-and-conditional-displays-prices/).
   * If you would like to be visible on OFN only but not actually sell goods through the platform then you can setup a [display only shopfront](../basic-features/shopfront/display-only-order-cycles.md).
-  * You would like to [embed]() the OFN shop front in your website.
+  * You would like to [embed](producer-shop-quick-setup-guide.md) the OFN shop front in your website.
 

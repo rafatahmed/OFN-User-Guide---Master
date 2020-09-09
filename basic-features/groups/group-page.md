@@ -7,7 +7,7 @@
 * farmer's markets
 * large multi-hub enterprises.
 
-Any collection of enterprises on the OFN can create a group page. 
+Any collection of enterprises on the OFN can create a group page.
 
 **What does a group page look like?** You can see some [Group Pages on Open Food Network Australia](https://openfoodnetwork.org.au/groups).
 
@@ -21,15 +21,15 @@ Once you’ve been set up as the administrator of a group, you’ll be able to v
 
 ### **Primary Details**
 
-This is where you can enter and edit the details of your group, and change what will appear on your group's page on the Open Food Network. To see an example of an existing group page, go to [Group Pages on Open Food Network Australia](https://openfoodnetwork.org.au/groups). 
+This is where you can enter and edit the details of your group, and change what will appear on your group's page on the Open Food Network. To see an example of an existing group page, go to [Group Pages on Open Food Network Australia](https://openfoodnetwork.org.au/groups).
 
 ![](../../.gitbook/assets/screen-shot-2019-11-14-at-11.31.45-am.png)
 
 **Name:** Enter a name for your group, to appear as the title of your group page on the OFN.
 
-**Description:** Write a brief description of your group, to appear below the title of your group page on the OFN. 
+**Description:** Write a brief description of your group, to appear below the title of your group page on the OFN.
 
-**On Front Page:** Select this check box to make your group visible on the OFN. Before you do this, make sure you have added some enterprises to your group and entered content in the About section. Do not check this box if your group page is not ready to be visible yet.  
+**On Front Page:** Select this check box to make your group visible on the OFN. Before you do this, make sure you have added some enterprises to your group and entered content in the About section. Do not check this box if your group page is not ready to be visible yet.
 
 **Enterprises:** Select the enterprises that you want to add to your group. You can search through all of the enterprises currently on the OFN and add them to your group. Please make sure you have permission to add enterprises to your group before doing so. Note, if you have already added an enterprise to your group, they will no longer appear in the search box. These enterprises will be listed on your group page on the OFN in the **Our Producers** and **Our Hubs** sections, and each listing will include a link to their OFN profile
 

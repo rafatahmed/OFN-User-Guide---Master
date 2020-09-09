@@ -17,7 +17,7 @@ To access Tag Rules go to Enterprises -&gt; Settings -&gt; Tag Rules
 
 ## By Default
 
-By default, _**all items** will be visible to **all customers**_ whether they are tagged or not.   
+By default, _**all items** will be visible to **all customers**_ whether they are tagged or not.  
 You can change the default display rules by selecting **+add new default rule**. Int the example below, by default, all Order Cycles which are tagged 'wholesale' will be invisible.  
 \(For this example, only those customers who are tagged with the label 'wholesalecustomer' can view \(and hence purchase from\) Order Cycles tagged 'wholesale'.\)
 
@@ -40,7 +40,7 @@ We now look at each option, one-by-one:
 
 ### **Show or Hide Variants in my shopfront**
 
-This rule lets you make particular variants visible/invisible to tagged customers. For this rule to operate you need to have tagged the customer and the product variant **in your inventory** \(not in the producer's product list\) with the same tag. 
+This rule lets you make particular variants visible/invisible to tagged customers. For this rule to operate you need to have tagged the customer and the product variant **in your inventory** \(not in the producer's product list\) with the same tag.
 
 In the example below the 1 kg variant of delux muesli has been tagged 'member'. It would thus be possible to set up tag rules such that by default only the smaller 500 g \(non-tagged\) variant of delux muesli appears on the shop front unless the customer belongs to a group of buyers all tagged 'member' \(in which case they would be able to view the 1 kg option too\).
 
@@ -48,7 +48,7 @@ In the example below the 1 kg variant of delux muesli has been tagged 'member'. 
 
 ### **Show/Hide shipping methods**
 
-This rule lets you make particular shipping methods specifically available or unavailable to certain customers. For this rule to operate you need to have tagged the customer and the shipping method with the same tag. To tag a shipping method, go to **edit** [**shipping method**](../shipping-methods.md) ****and apply the relevant tag. 
+This rule lets you make particular shipping methods specifically available or unavailable to certain customers. For this rule to operate you need to have tagged the customer and the shipping method with the same tag. To tag a shipping method, go to **edit** [**shipping method**](../shipping-methods.md) _\*\*_and apply the relevant tag.
 
 ![](../../../.gitbook/assets/tagshipping.jpg)
 
@@ -61,7 +61,7 @@ Thus, only members would be able to opt to collect their purchases in person.
 
 ### **Show/Hide payment methods**
 
-This rule lets you make particular payment methods specifically available or unavailable to particular customers. 
+This rule lets you make particular payment methods specifically available or unavailable to particular customers.
 
 {% hint style="info" %}
 This tag rule might be useful if you only wish to offer members the option to pay by cash on collection \(but make non-members pay upfront by card or PayPal\), or if you would like to offer your wholesale customers only the option to pay by BACS.
@@ -80,10 +80,10 @@ Thus, only members would be able to opt to pay for their purchases in cash on co
 
 ### **Show/Hide order cycles at my shopfront**
 
-This rule lets you make certain order cycles visible only to certain customers. 
+This rule lets you make certain order cycles visible only to certain customers.
 
 {% hint style="info" %}
- This tag rule might be useful if you wish to open two order cycles concurrently with different enterprise fees associated to each. For example, one might be for wholesale customers- displaying bulk buy goods and lower enterprise fees, while another would be visible to the public and list products in smaller quantities but with a higher margin.
+This tag rule might be useful if you wish to open two order cycles concurrently with different enterprise fees associated to each. For example, one might be for wholesale customers- displaying bulk buy goods and lower enterprise fees, while another would be visible to the public and list products in smaller quantities but with a higher margin.
 {% endhint %}
 
 For this rule to operate you need to have tagged the customer and the order cycle with the same tag. To tag an order cycle, see the Tags tab in the outgoing section of an order cycle \(page 3 of the [Order Cycle](../order-cycle/order-cycles-for-hubs.md#3-outgoing-products)\).
@@ -111,7 +111,7 @@ You can use **customer tagging**, with tag rules to achieve this by:
 {% hint style="info" %}
 Beyond the use of tags, some enterprises opt to set up two hubs: one for wholesale customers/members only \(see Private Shop front\) and one for everyone else.
 
-By using the [Inventory](../../products-1/inventory-tool.md) feature the two shops could offer the same products but you can set the pricing for each independently. 
+By using the [Inventory](../../products-1/inventory-tool.md) feature the two shops could offer the same products but you can set the pricing for each independently.
 
 This method offers the most flexibility: prices can be fine-tuned for customer groups on a case-by-case basis rather than a blanket percentage or fixed price difference.
 {% endhint %}

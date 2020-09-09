@@ -7,7 +7,7 @@ Occasionally, you may have to adjust the amount a customer pays for their order.
 * A customer contacts you to add extra items to their basket.
 * One \(or more\) of the items ordered is not of the expected quality and you wish to compensate the customer.
 
- There are two main cases:
+  There are two main cases:
 
 * The customer is due to _**pay for their produce on collection**_ and so no payment has been made in advance. In this case, you can adjust the customer's order, resend their order confirmation email, and the monies exchanged on the day of collection reflect the updated amount due.
 * The _**order was paid for at the time it was placed**_ \(Stripe, PayPal, or bank transfer\). In this case there are three options:
@@ -27,7 +27,7 @@ Make sure the order you wish to refund is marked as 'PAID':
 
 Adjust the order as necessary \(read [here](view-orders.md#editing-an-order) for how to edit an order or read more about [bulk order management](view-orders.md#bulk-order-management) for managing scenarios such as [product shortage](view-orders.md#example-1-you-have-a-stock-shortage-and-must-reduce-customer-order-quantities-for-a-certain-product) or [irregularly priced meat items](../products-1/pricing-irregular-items-kg.md).\)
 
-You will then see the that there is CREDIT on the modified order.  Select the 'tick' to the right of the order to issue a refund via Stripe:
+You will then see the that there is CREDIT on the modified order. Select the 'tick' to the right of the order to issue a refund via Stripe:
 
 ![](../../.gitbook/assets/capture-du-2019-02-27-20-04-19.png)
 
@@ -40,7 +40,7 @@ Refunds take 5-10 days to appear on a customer's statement.
 {% endhint %}
 
 {% hint style="warning" %}
-The fees charged by Stripe \(1.4% - 2.9% + 20p per transaction\) are not refunded to your business. They are charged based on the amount originally paid.   
+The fees charged by Stripe \(1.4% - 2.9% + 20p per transaction\) are not refunded to your business. They are charged based on the amount originally paid.  
 It might, therefore, be more advantageous to offer the customer credit against their next \(or future\) order rather than issue a refund.
 {% endhint %}
 
@@ -55,7 +55,7 @@ This is a functionality we hope to add in the future.
 
 ### Refunding a Bank Transfer Payment
 
-_A customer pays for their purchases by bank transfer or any other non-automated method \(ie any method except Stripe or PayPal\) and you recorded their payment.  At a later date, it is necessary to_ [_edit their order_](view-orders.md#editing-an-order) _\(an item is not available or was supplied faulty\). After making this adjustment the over-payment made by the customer displays as credit against their order._  
+_A customer pays for their purchases by bank transfer or any other non-automated method \(ie any method except Stripe or PayPal\) and you recorded their payment. At a later date, it is necessary to_ [_edit their order_](view-orders.md#editing-an-order) _\(an item is not available or was supplied faulty\). After making this adjustment the over-payment made by the customer displays as credit against their order._  
 To issue a refund by BACS you will need to do so through your business bank account.
 
 ## How to issue a customer Credit against their next order
@@ -63,7 +63,7 @@ To issue a refund by BACS you will need to do so through your business bank acco
 An alternative to issuing a refund might be to manually deduct the customer's credit from their next order.
 
 {% hint style="info" %}
-Currently, as Shop or Hub manager, you would need to manually adjust the customers balance to take account of their credit.  In the future we would like to automate this process.  Please [contact us](https://www.openfoodnetwork.org/find-your-local-open-food-network/) if it is something which would be useful for your enterprise.
+Currently, as Shop or Hub manager, you would need to manually adjust the customers balance to take account of their credit. In the future we would like to automate this process. Please [contact us](https://www.openfoodnetwork.org/find-your-local-open-food-network/) if it is something which would be useful for your enterprise.
 {% endhint %}
 
 ## How to bill a customer for additional funds

@@ -14,13 +14,13 @@ It's easy to get started on OFN, just follow the steps below:
 4. Set up a choice of [shipping options](../basic-features/shopfront/shipping-methods.md) available to your customers  \('click and collect' service with a pick up time and location, home delivery, etc...\)
 5. Set up an [order cycle](../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md) : this will open your shop at the start date you defined!  An order cycle is a period during which shoppers can place orders for collection or delivery at a particular time.  Some enterprises have a weekly order cycle.  Some have a permanently open order cycle.
 
-Congrats!  Your shop is now live!
+Congrats! Your shop is now live!
 
 {% hint style="info" %}
 To earn a little revenue to cover the cost of organising sales you may like to add an '[Enterprise Fee](../basic-features/shopfront/enterprise-fees.md)'- this mark-up is added to the selling price of products on your shopfront.
 {% endhint %}
 
-When you start receiving orders, you can manage them in the [orders](../basic-features/orders/) section.  
+When you start receiving orders, you can manage them in the [orders](../basic-features/orders/) section.
 
 All the data you need to prepare and deliver the groceries to your customers can be found in the [reports](../basic-features/reports.md) section.
 

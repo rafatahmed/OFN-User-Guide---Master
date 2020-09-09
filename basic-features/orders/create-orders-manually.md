@@ -8,7 +8,7 @@ There you are then lead through a step-by-step process to place the order:
 
 ![](../../.gitbook/assets/manorder2.jpg)
 
-Firstly you will be prompted to select the distributor that the order will be placed with.   
+Firstly you will be prompted to select the distributor that the order will be placed with.  
 Next you will need to select the order cycle that you want the order to be placed in. You choice of order cycle will dictate which products will be available to be added into the order and the fees applied.  
 You will then be redirected to the following page where you can select products. You must type at least the first 3 characters of the product for it to appear as an option in the drop down list:
 
@@ -28,7 +28,7 @@ The next step is to add in the customer’s details \(right hand menu, second op
 
 ![](../../.gitbook/assets/manorder6.jpg)
 
-Click **Update** and go back to Order Details \(top option on right hand menu\).  You will now be able to select a shipping method for the customer.
+Click **Update** and go back to Order Details \(top option on right hand menu\). You will now be able to select a shipping method for the customer.
 
 ![](../../.gitbook/assets/manorder7.jpg)
 
@@ -38,7 +38,7 @@ Tick to update changes and cross to cancel.
 You can not select a shipping method prior to adding the customer's details.
 {% endhint %}
 
-The final step is to add the customer’s payment method.  This is found from the bottom option of the right hand menu:
+The final step is to add the customer’s payment method. This is found from the bottom option of the right hand menu:
 
 ![](../../.gitbook/assets/manorder8.jpg)
 

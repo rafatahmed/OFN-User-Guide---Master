@@ -1,6 +1,6 @@
 # Making a producer profile searchable by product category
 
-When customers come to the Open Food Network they are able to search for producers by name or location. They are also able to filter the producer profiles according to what kinds of products the producers stock \(see below\). 
+When customers come to the Open Food Network they are able to search for producers by name or location. They are also able to filter the producer profiles according to what kinds of products the producers stock \(see below\).
 
 ![](../../.gitbook/assets/filter-by-product.png)
 
@@ -19,6 +19,4 @@ Because you don’t have an OFN shopfront, this product won’t be visible anywh
 Their summary profile will also indicate that they sell meat products \(below\).
 
 ![](../../.gitbook/assets/meat.png)
-
-
 

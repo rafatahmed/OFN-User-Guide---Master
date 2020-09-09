@@ -3,7 +3,7 @@
 This page describes how shops can setup unique subscriptions for individual customers, including which items are included in their subscription, which [schedule](subscriptions-configuration.md#schedules) the subscription applies to \(ie the rate at which they receive their order\) and how to pause/edit their subscription.
 
 {% hint style="danger" %}
- In this first version of the subscriptions feature, **enterprises must setup subscriptions on behalf of their customers.** Customers can not setup their own subscriptions.
+In this first version of the subscriptions feature, **enterprises must setup subscriptions on behalf of their customers.** Customers can not setup their own subscriptions.
 {% endhint %}
 
 **Checklist of things to do before you create subscriptions for you customers:**
@@ -21,7 +21,7 @@ Click on **Orders** in the blue horizontal menu and then select **Subscriptions*
 
 ![](../../.gitbook/assets/sub1.jpg)
 
-Click **+ New Subscription** to setup a recurring order for your customer.  You will first be prompted to select the shop with which you wish to create the new subscription.  
+Click **+ New Subscription** to setup a recurring order for your customer. You will first be prompted to select the shop with which you wish to create the new subscription.
 
 {% hint style="danger" %}
 You must have created a schedule of order cycles before you can create a subscription. Read more [here](subscriptions-configuration.md#schedules).
@@ -31,21 +31,21 @@ You must have created a schedule of order cycles before you can create a subscri
 
 ![](../../.gitbook/assets/sub2.jpg)
 
-**Customer:** Select a customer from the drop-down list. You can only choose from those people added to the [Customer List](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list) for the Enterprise with which you are creating the subscription. 
+**Customer:** Select a customer from the drop-down list. You can only choose from those people added to the [Customer List](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list) for the Enterprise with which you are creating the subscription.
 
 **Schedule:** Select the schedule that this customer wants to subscribe to.
 
-**Payment method:** Select the customer’s preferred payment method. This must be either Stripe or a manual payment method \(cash, cheque, bank transfer\). See [here](subscriptions-configuration.md#payment-methods) for more information. 
+**Payment method:** Select the customer’s preferred payment method. This must be either Stripe or a manual payment method \(cash, cheque, bank transfer\). See [here](subscriptions-configuration.md#payment-methods) for more information.
 
 **Shipping method:** Select the customer’s preferred shipping method.
 
-**Begins at:** This is the date that the customer’s first subscription generated order will be generated. 
+**Begins at:** This is the date that the customer’s first subscription generated order will be generated.
 
 {% hint style="danger" %}
 If this date is midway through an open order cycle in their schedule there will be an order generated for that order cycle. If not, their first subscription order will be placed when the next order cycle to open in their schedule begins.
 {% endhint %}
 
-**Ends at:** After this date the customer’s subscription orders will no longer be generated. This field is optional, if left blank the order will continue to be generate indefinitely. 
+**Ends at:** After this date the customer’s subscription orders will no longer be generated. This field is optional, if left blank the order will continue to be generate indefinitely.
 
 {% hint style="danger" %}
 If the 'Ends at' date falls in the middle of a future order cycle then no subscription order will be placed.For example:
@@ -61,7 +61,7 @@ Fill out the customer’s billing and shipping details. Address details for cust
 ![](../../.gitbook/assets/new-subscription-address.png)
 
 {% hint style="warning" %}
-If you update the customer's address/contact details in the [Customer](../shopfront/customer-management-and-conditional-displays-prices/customers.md) page, the change won't automatically carry through to their subscription.  You will need to update their details here too.
+If you update the customer's address/contact details in the [Customer](../shopfront/customer-management-and-conditional-displays-prices/customers.md) page, the change won't automatically carry through to their subscription. You will need to update their details here too.
 {% endhint %}
 
 ### **Add Products**
@@ -84,7 +84,7 @@ If the schedule for which you have just created a customer's new subscription ha
 
 #### **What happens if the price of a product changes after the subscription is made?**
 
-The prices of items within subscriptions will update and the customer will be charged according to the updated price.  At the start of each order cycle with which their subscription is generated they will receive an email with a summary of their order, including up-to-date prices.
+The prices of items within subscriptions will update and the customer will be charged according to the updated price. At the start of each order cycle with which their subscription is generated they will receive an email with a summary of their order, including up-to-date prices.
 
 #### **What if a product in a subscription is not available in an order cycle?**
 
@@ -94,13 +94,13 @@ When an item in a subscription is not available \(for example if it is a seasona
 
 ### Edit the base subscription
 
-To make changes to the whole subscription \(ie all orders placed from now on for the customer\) then visit **Orders** \(blue menu\) -&gt; **Subscriptions \(**green sub-menu\). 
+To make changes to the whole subscription \(ie all orders placed from now on for the customer\) then visit **Orders** \(blue menu\) -&gt; **Subscriptions \(**green sub-menu\).
 
-Select the enterprise with which the customer has a subscription from the drop-down menu.  
+Select the enterprise with which the customer has a subscription from the drop-down menu.
 
 ![](../../.gitbook/assets/sub1%20%281%29.jpg)
 
-A table listing all your customers' subscriptions will be then visible.   Select the Edit \(pen and paper\) icon to the right of the customer: 
+A table listing all your customers' subscriptions will be then visible. Select the Edit \(pen and paper\) icon to the right of the customer:
 
 ![](../../.gitbook/assets/editsub.jpg)
 
@@ -127,19 +127,19 @@ To delete a subscription for a customer who no longer wishes to receive the good
 ![](../../.gitbook/assets/cancelsub.jpg)
 
 {% hint style="warning" %}
- If you delete a subscription while there is an open order cycle you'll be asked whether you want to keep the customer's open order, or if they want to delete the current order.
+If you delete a subscription while there is an open order cycle you'll be asked whether you want to keep the customer's open order, or if they want to delete the current order.
 {% endhint %}
 
 ### Pause a subscription
 
-A customer may want to pause their order while on holiday for instance. In this case, click on the **pause** button \(two vertical lines\) to the right hand side of the subscriptions table. This will prevent all future orders in the subscription from being generated, until it is activated again. 
+A customer may want to pause their order while on holiday for instance. In this case, click on the **pause** button \(two vertical lines\) to the right hand side of the subscriptions table. This will prevent all future orders in the subscription from being generated, until it is activated again.
 
 ![](../../.gitbook/assets/pausesub.jpg)
 
 To un-pause \(re-activate\) a subscription, click on the **play** \(arrow\) button.
 
 {% hint style="warning" %}
-If you pause a subscription while an order cycle is still open, you'll be asked whether you'd like to keep the current order or not. 
+If you pause a subscription while an order cycle is still open, you'll be asked whether you'd like to keep the current order or not.
 
 Subscriptions re-activated in the middle of an open order cycle will generate orders immediately.
 {% endhint %}
