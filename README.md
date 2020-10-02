@@ -1,4 +1,4 @@
-# مرحبًا بك في دليل المستخدم لمنصة فلاحة شبكة الغذاء المفتوح
+# مرحبًا بك في دليل المستخدم لمنصة شبكة الغذاء المفتوح - فلاحة جو
 
 | Language version | Link to the user guide |
 | :--- | :--- |
@@ -7,7 +7,7 @@
 | ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png) | [Accéder à la version française du guide utilisateur Open Food Network](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) |
 | ![](.gitbook/assets/capture-du-2019-09-26-00-37-35.png) | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org/) |
 
-### تم تصميم دليل المستخدم هذا لمساعدتك في تحقيق أقصى استفادة من منصة [فلاحة شبكة الغذاء المفتوح ](https://flaha.org)لدعم وتشغيل مؤسسات الأغذية المحلية و "سلاسل الأغذية القصيرة" أينما كنت.
+### تم تصميم دليل المستخدم هذا لمساعدتك في تحقيق أقصى استفادة من منصة [شبكة الغذاء المفتوح الاردن - فلاحة جو ](https://flaha.org)لدعم وتشغيل مؤسسات الأغذية المحلية و "سلاسل الأغذية القصيرة" أينما كنت.
 
 ## لمحة عامة
 
