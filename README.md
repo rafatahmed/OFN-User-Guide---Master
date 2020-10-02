@@ -1,7 +1,7 @@
 # مرحبًا بك في دليل المستخدم لمنصة شبكة الغذاء المفتوح - فلاحة جو
 
-| Language version | Link to the user guide |
-| :--- | :--- |
+| اللغة |  رابط الموقع |
+| ---: | ---: |
 | ![](.gitbook/assets/jordan_flag.png) | أنت تقرأ النسخة العربية! |
 | ![](.gitbook/assets/capture-du-2019-09-26-00-38-19.png) | [_Open food Network - User Guide  English version_](https://guide.openfoodnetwork.org/) |
 | ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png) | [Accéder à la version française du guide utilisateur Open Food Network](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) |
