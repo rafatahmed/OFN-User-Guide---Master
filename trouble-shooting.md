@@ -71,6 +71,6 @@ The 'group buy' functionality described [here](basic-features/products-1/group-b
 Currently you are not able to issue refunds to customers who purchased goods by PayPal directly through the OFN platform. You will need to visit your business PayPal account and manually make the refund to the customer there. This is a functionality we hope to develop in the future, should user sufficient users demand it.
 
 {% hint style="warning" %}
-If none of these steps help, or there is another problem that you would like advice with, then please contact your[ local OFN support team](local-ofn-organizations-and-contacts.md), who will do their best to get back to you with solutions and help as soon as they can.
+If none of these steps help, or there is another problem that you would like advice with, then please contact your[ local OFN support team](), who will do their best to get back to you with solutions and help as soon as they can.
 {% endhint %}
 

@@ -1,7 +1,7 @@
 # Hub management tips
 
 {% hint style="info" %}
-This section is under development. Please contact your [local OFN support team](../local-ofn-organizations-and-contacts.md) to let them know areas where you would like to have more support.
+This section is under development. Please contact your [local OFN support team]() to let them know areas where you would like to have more support.
 {% endhint %}
 
 The Open Food Network is a global community of people who are running local food enterprises. Some of them are not-for-profit social enterprises run by community groups. Some are private businesses. All of them see the benefit of collaborating to continue to develop a single software system that allows them not only to access the OFN tools that facilitate their business but to use the power of the Network to link up with everyone else who is using OFN so that they can distribute and sell each other's products.
