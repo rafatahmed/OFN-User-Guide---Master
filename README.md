@@ -1,4 +1,8 @@
-# مرحبًا بك في دليل المستخدم لمنصة شبكة الغذاء المفتوح - فلاحة جو
+---
+description: مرحبًا بك في دليل المستخدم لمنصة شبكة الغذاء المفتوح - فلاحة جو
+---
+
+# مرحبًا بك في دليل المستخدم
 
 | اللغة |  رابط الموقع |
 | ---: | ---: |
@@ -11,7 +15,7 @@
 
 ## لمحة عامة
 
-#### تمكّن **فلاحة** المواطنين من بناء طرق أفضل وأكثر عدلاً للحصول على طعامهم محليًا وبشكل مباشر من المزارعين والمنتجين. يمكن لشبكات موسعة من صغار منتجي الأغذية والموزعين وتجار التجزئة ومراكز الطعام والتعاونيات الغذائية ومجموعات الشراء أن تتحد بمساعدة منصة فلاحة كشبكة غذاء لإيجاد أفضل طريقة لتقصير سلسلة التوريد الغذائي وتساعد في بناء مجتمعات قوية.
+#### تمكّن **فلاحة** المواطنين من بناء طرق أفضل وأكثر عدلاً للحصول على طعامهم محليًا وبشكل مباشر من المزارعين والمنتجين. ويمكن لعمل شبكات موسعة من صغار منتجي الأغذية والموزعين وتجار التجزئة ومراكز الطعام والتعاونيات الغذائية ومجموعات الشراء أن تتحد بمساعدة منصة فلاحة كشبكة غذاء لإيجاد أفضل طريقة لتقصير سلسلة التوريد الغذائي وتساعد في بناء مجتمعات قوية.
 
 The Open Food Network is a global project that supports the operational organisation of farmers, groups of consumers, cooperatives, etc. in the distribution of local food. The software we build is open source, and we collaborate with amazing people from all over the world to keep improving it! We also provide support in the organisational aspects of setting up and running a food hub. Please get in touch with [your local OFN contact](local-ofn-organizations-and-contacts.md) to learn more about us!
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [مرحبًا بك في دليل المستخدم لمنصة شبكة الغذاء المفتوح - فلاحة جو](README.md)
+* [مرحبًا بك في دليل المستخدم](README.md)
 * [Local OFN organisations and contacts](local-ofn-organizations-and-contacts.md)
 * [Where does my business fit in OFN?](your-quick-start-on-ofn-given-who-you-are.md)
 * [Quick Start Guides](quick-start-guides/README.md)
