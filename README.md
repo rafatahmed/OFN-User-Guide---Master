@@ -1,5 +1,5 @@
 ---
-description: مرحبًا بك في دليل المستخدم لمنصة شبكة الغذاء المفتوح - فلاحة جو
+description: مرحبًا بك في دليل المستخدم لمنصة فلاحة جو- احدى منصات شبكة الغذاء المفتوح -
 ---
 
 # مرحبًا بك في دليل المستخدم
@@ -9,7 +9,6 @@ description: مرحبًا بك في دليل المستخدم لمنصة شبك�
 | ![](.gitbook/assets/jordan_flag.png) | أنت تقرأ النسخة العربية! |
 | ![](.gitbook/assets/capture-du-2019-09-26-00-38-19.png) | [_Open food Network - User Guide  English version_](https://guide.openfoodnetwork.org/) |
 | ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png) | [Accéder à la version française du guide utilisateur Open Food Network](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-37-35.png) | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org/) |
 
 ### تم تصميم دليل المستخدم هذا لمساعدتك في تحقيق أقصى استفادة من منصة [شبكة الغذاء المفتوح الاردن - فلاحة جو ](https://flaha.org)لدعم وتشغيل مؤسسات الأغذية المحلية و "سلاسل الأغذية القصيرة" أينما كنت.
 

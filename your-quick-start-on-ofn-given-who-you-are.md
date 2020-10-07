@@ -1,30 +1,34 @@
 ---
-description: Identify the classification of your food enterprise within the OFN platform.
+description: حدد تصنيف عملك في منصة فلاحة جو
 ---
 
-# Where does my business fit in OFN?
+# اين يقع عملي في منصة فلاحة جو
 
-Depending on the type of food enterprise you are running, you will use the Open Food Network platform differently.
+لقد قمنا باعداد مخطط يوضح كيفية مشاكنك معنا, فاعتمادا على نمط مؤسستك الغذائية ضمن المخطط الموضح بالاسفل ستقوم باختيار طريقك.
 
-We classify food enterprises in three ways: [Profiles](your-quick-start-on-ofn-given-who-you-are.md#profile), [Shops](your-quick-start-on-ofn-given-who-you-are.md#shop) or [Hubs](your-quick-start-on-ofn-given-who-you-are.md#hub).
+نصنف العمل الغذائي من مزارع الى مؤسسة غذائية بثلاث طرق : [ملف شخصي](your-quick-start-on-ofn-given-who-you-are.md#almlf-alshkhsy), [متجر](your-quick-start-on-ofn-given-who-you-are.md#almtjr), [مؤسسة](your-quick-start-on-ofn-given-who-you-are.md#almussh)
 
-![](.gitbook/assets/l-flowchart%20%281%29.png)
+![](.gitbook/assets/ofn_intro_chart.png)
 
-_The flexibility of the Open Food Network software allows you to change from profile,_ _to shop, to hub \(or vice versa\) as your business grows and/or needs change._
+تسمح لك مرونة **منصة فلاحة جو** بالتغيير من الملف الشخصي ، إلى التسوق ، إلى المحور \(أو العكس\) مع نمو عملك و / أو تغير الاحتياجات
 
-## Hub
+## المؤسسة
 
 {% hint style="success" %}
-Farmers' Market, Veg box scheme, Crofting Groups, Social Food Community groups, Food Coops, Food hubs, CSA, Market/City gardens, Retail shops, Food Banks, Wholesale Distributors...
+سوق المزارعين ، مخطط صندوق الخضار ، مجموعات Crofting ، مجموعات مجتمع الغذاء الاجتماعي ، تعاونيات الطعام ، مراكز الطعام ، حدائق السوق / المدينة ، متاجر البيع بالتجزئة ، بنوك الطعام ، موزعي الجملة ...
 {% endhint %}
 
 Hubs can take many forms but, in essence, your enterprise is best classified as a 'Hub' on OFN if you wish to **sell produce made by others.** You can retail your own products alongside those of other farmers, bakers, growers... \(a '**Producer Hub**'\) or act solely as a distributor to sell a collection of groceries made by \(local\) enterprises \(a '**Non-Producer Hub**'\).
 
+يمكن أن تتخذ المحاور أشكالًا عديدة ، ولكن في جوهرها ، يتم تصنيف مؤسستك بشكل أفضل على أنها "Hub" في OFN إذا كنت ترغب في بيع المنتجات المصنوعة بواسطة الآخرين. يمكنك بيع منتجاتك الخاصة للبيع بالتجزئة جنبًا إلى جنب مع منتجات المزارعين والخبازين والمزارعين الآخرين ... \("مركز المنتج"\) أو العمل فقط كموزع لبيع مجموعة من البقالة التي تنتجها المؤسسات \(المحلية\) \("مركز غير المنتج" '\).
+
 {% hint style="info" %}
-If you'd prefer to sell only products that **you** make then the '[shop](your-quick-start-on-ofn-given-who-you-are.md#shop)' classification suites your needs better.
+إذا كنت تفضل بيع المنتجات التي تصنعها فقط ، فإن تصنيف **"**[**المتجر**](your-quick-start-on-ofn-given-who-you-are.md#almtjr)**"** يناسب احتياجاتك بشكل أفضل.
 {% endhint %}
 
 ### OFN can help your hub thrive and prosper by:
+
+### يمكن لـمنصة فلاحة جو أن تساعد مركزك في الازدهار من خلال:
 
 1. Increasing your online visibility.
 2. Providing your customers with a virtual 'farmers' market' experience
@@ -37,7 +41,7 @@ _The Hub enterprise has the most flexibility of the three enterprise types in OF
 
 **Setting up on OFN** can be as simple following 5 steps, just follow our quick starter's guide [here](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
 
-## Shop
+## المتجر
 
 {% hint style="success" %}
 Farmers, Bakers, Growers, Individual Crofters, Cottage Enterprises, Small Holders....
@@ -64,7 +68,7 @@ If you'd prefer not to organise sales to customers directly but would like to **
 
 **Setting up on OFN** can be a simple 5-step process, just follow our quick starters guide [here](quick-start-guides/producer-shop-quick-setup-guide.md).
 
-## Profile
+## الملف الشخصي
 
 {% hint style="success" %}
 Farmers, Bakers, Growers, Individual Crofters, Cottage Enterprises, Small Holders....
