@@ -37,29 +37,27 @@ description: حدد تصنيف عملك في منصة فلاحة جو
 
 تتمتع المؤسسة بأكبر قدر من المرونة من بين أنواع المؤسسات الثلاثة في منصة فلاحة وقد تجد أنه من الضروري تعديل نوع مؤسستك إلى "[مؤسسة](your-quick-start-on-ofn-given-who-you-are.md#almussh)" من أجل فتح بعض الميزات الأكثر تعقيدًا التي يمكننا تقديمها.
 
-**Setting up on OFN** can be as simple following 5 steps, just follow our quick starter's guide [here](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
-
-**قم بتفعيل اعداداتك** على منصة فلاحة بشكل بسيطً باتباع 5 خطوات ، ما عليك سوى اتباع [دليل البدء السريع هنا](quick-start-guides/).
+**قم بتفعيل اعداداتك** على منصة فلاحة بشكل بسيطً باتباع 5 خطوات ، ما عليك سوى اتباع [**دليل البدء السريع هنا**](quick-start-guides/).
 
 ## المتجر
 
 {% hint style="success" %}
-Farmers, Bakers, Growers, Individual Crofters, Cottage Enterprises, Small Holders....
+مزارعون ، خبازون ، مشاريع منزلية ، أصحاب بسطة صغيرة ...
 {% endhint %}
 
-Shops can take many forms but in essence, your enterprise is best classified as a 'Shop' on OFN if you wish to **sell** _**only**_ **produce** that **you** make.
+يمكن أن تتخذ **المتاجر** أشكالًا عديدة ولكن في جوهرها ، يتم تصنيف مؤسستك على أنها "**متجر**" على منصة فلاحة إذا كنت ترغب في بيع المنتجات التي تصنعها
 
 {% hint style="danger" %}
-If you'd wish to sell products made by others as well as yourself then it is necessary to register as a '[Hub](your-quick-start-on-ofn-given-who-you-are.md#hub)'.
+إذا كنت ترغب في بيع منتجات من صنع الآخرين كما أنت ، فمن الضروري التسجيل كـ **"**[**مؤسسة**](your-quick-start-on-ofn-given-who-you-are.md#almussh)**"**.
 {% endhint %}
 
-As a shop; as well as selling directly to customers through your shop front; you can also supply other OFN retailers \(Hubs\) with your produce.
+كمتجر وكذلك البيع مباشرة للعملاء من خلال واجهة متجرك ؛ يمكنك أيضًا تزويد بائعي التجزئة الآخرين \(المؤسسات\) في منصة فلاحة بمنتجاتك.
 
 {% hint style="warning" %}
-If you'd prefer not to organise sales to customers directly but would like to **only** supply an OFN hub with goods then the '[Profile](your-quick-start-on-ofn-given-who-you-are.md#profile)' classification suits your needs better.
+إذا كنت تفضل عدم تنظيم المبيعات للعملاء مباشرةً ولكنك ترغب فقط في تزويد مؤسسات منصة فلاحة بالبضائع ، فإن تصنيف **"**[**الملف الشخصي**](your-quick-start-on-ofn-given-who-you-are.md#almlf-alshkhsy)**"** يناسب احتياجاتك بشكل أفضل.
 {% endhint %}
 
-### OFN can help your shop thrive and prosper by:
+### يمكن لـمنصة فلاحة مساعدة متجرك على الازدهار من خلال:
 
 1. Increasing your online visibility.
 2. Streamlining your admin tasks with stock levels, orders, finances, packing reports all in one place.
