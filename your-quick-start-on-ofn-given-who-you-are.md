@@ -15,31 +15,31 @@ description: حدد تصنيف عملك في منصة فلاحة جو
 ## المؤسسة
 
 {% hint style="success" %}
-سوق المزارعين ، مخطط صندوق الخضار ، مجموعات Crofting ، مجموعات مجتمع الغذاء الاجتماعي ، تعاونيات الطعام ، مراكز الطعام ، حدائق السوق / المدينة ، متاجر البيع بالتجزئة ، بنوك الطعام ، موزعي الجملة ...
+سوق المزارعين ، مخطط صندوق الخضار،  مجموعات مجتمع الغذاء الاجتماعي ، تعاونيات الطعام ، مراكز الطعام ، حدائق السوق / المدينة ، متاجر البيع بالتجزئة ، بنوك الطعام ، موزعي الجملة ...
 {% endhint %}
 
-Hubs can take many forms but, in essence, your enterprise is best classified as a 'Hub' on OFN if you wish to **sell produce made by others.** You can retail your own products alongside those of other farmers, bakers, growers... \(a '**Producer Hub**'\) or act solely as a distributor to sell a collection of groceries made by \(local\) enterprises \(a '**Non-Producer Hub**'\).
-
-يمكن أن تتخذ المحاور أشكالًا عديدة ، ولكن في جوهرها ، يتم تصنيف مؤسستك بشكل أفضل على أنها "Hub" في OFN إذا كنت ترغب في بيع المنتجات المصنوعة بواسطة الآخرين. يمكنك بيع منتجاتك الخاصة للبيع بالتجزئة جنبًا إلى جنب مع منتجات المزارعين والخبازين والمزارعين الآخرين ... \("مركز المنتج"\) أو العمل فقط كموزع لبيع مجموعة من البقالة التي تنتجها المؤسسات \(المحلية\) \("مركز غير المنتج" '\).
+يمكن أن تتخذ المحاور أشكالًا عديدة ، ولكن في جوهرها ، يتم تصنيف مؤسستك بشكل أفضل على أنها "مؤسسة" فيمنصة فلاحة إذا كنت ترغب في بيع المنتجات المصنوعة بواسطة الآخرين. يمكنك بيع منتجاتك الخاصة للبيع بالتجزئة جنبًا إلى جنب مع منتجات المزارعين والخبازين والمزارعين الآخرين \("مؤسسة منتج"\) أو العمل فقط كموزع لبيع مجموعة من البقالة التي تنتجها المؤسسات \(المحلية\) \("مؤسسة غير منتجة" '\).
 
 {% hint style="info" %}
 إذا كنت تفضل بيع المنتجات التي تصنعها فقط ، فإن تصنيف **"**[**المتجر**](your-quick-start-on-ofn-given-who-you-are.md#almtjr)**"** يناسب احتياجاتك بشكل أفضل.
 {% endhint %}
 
-### OFN can help your hub thrive and prosper by:
-
 ### يمكن لـمنصة فلاحة جو أن تساعد مركزك في الازدهار من خلال:
 
-1. Increasing your online visibility.
-2. Providing your customers with a virtual 'farmers' market' experience
-3. Streamlining your admin tasks with stock levels, orders, finances, packing reports all in one place.
-4. Being able to take orders periodically to fit in with seasonal supply, production rotas and more...
-5. Helping organise regular repeating orders such as veg box schemes.
-6. Helping to build strong working relationships with local producers and food enterprises who supply you with goods.
+1.زيادة زيارات متجرك الكترونيا  
+2. تزويد عملائك بتجربة افتراضية لـ "سوق المزارعين"  
+3. تبسيط مهامك الإدارية من خلال مستويات المخزون ، والأوامر ، والشؤون المالية ، وتعبئة التقارير في مكان واحد.  
+4. القدرة على تلقي الطلبات بشكل دوري لتتلاءم مع العرض الموسمي ، وروتا الإنتاج والمزيد ...  
+5. المساعدة في تنظيم الطلبات المتكررة المنتظمة مثل مخططات صندوق الخضار.  
+6. المساعدة في بناء علاقات عمل قوية مع المنتجين المحليين ومؤسسات الأغذية التي تزودك بالسلع.
 
-_The Hub enterprise has the most flexibility of the three enterprise types in OFN and you may find it necessary to adjust your enterprise type to 'hub' in order to unlock some of the more complex features we can offer._
+
+
+تتمتع المؤسسة بأكبر قدر من المرونة من بين أنواع المؤسسات الثلاثة في منصة فلاحة وقد تجد أنه من الضروري تعديل نوع مؤسستك إلى "[مؤسسة](your-quick-start-on-ofn-given-who-you-are.md#almussh)" من أجل فتح بعض الميزات الأكثر تعقيدًا التي يمكننا تقديمها.
 
 **Setting up on OFN** can be as simple following 5 steps, just follow our quick starter's guide [here](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
+
+يمكن أن يكون الإعداد على OFN بسيطًا باتباع 5 خطوات ، ما عليك سوى اتباع [دليل البدء السريع هنا](quick-start-guides/).
 
 ## المتجر
 

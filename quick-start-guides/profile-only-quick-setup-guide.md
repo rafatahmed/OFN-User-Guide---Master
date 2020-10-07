@@ -2,7 +2,7 @@
 description: Simple steps to get started as a OFN profile.
 ---
 
-# Profile
+# الملف الشخصي
 
 It's easy to get started on OFN, just follow the steps below:
 

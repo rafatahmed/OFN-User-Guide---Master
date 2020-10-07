@@ -1,16 +1,16 @@
 ---
-description: Simple steps to start your OFN journey
+description: خطوات بسيطة لبدء رحلة منصة فلاحةالخاصة بك
 ---
 
-# Quick Start Guides
+# دليل البدء السريع
 
-Getting started on the Open Food Network can be as easy as 1-5!
+البدء باستخدام منصة فلاحة سيكون سهلاً بدا بالخصوات الخمس !
 
-Follow the quick set up list for your enterprise:
+اتبع قائمة الإعداد السريع لمؤسستك: ‌
 
-* [Hub](multi-producers-shop-hub-quick-setup-guide.md)
-* [Shop](producer-shop-quick-setup-guide.md)
-* [Profile](profile-only-quick-setup-guide.md)
+🏷 [المؤسسة](multi-producers-shop-hub-quick-setup-guide.md)  
+🏷[المتجر](producer-shop-quick-setup-guide.md)  
+🏷[الملف الشخصي](profile-only-quick-setup-guide.md)
 
-Not sure which enterprise you are? Have a look at this [page](../your-quick-start-on-ofn-given-who-you-are.md).
+لست متأكدا أي شركة أنت؟ الق نظرة على [هذه الصفحة](../your-quick-start-on-ofn-given-who-you-are.md).
 
