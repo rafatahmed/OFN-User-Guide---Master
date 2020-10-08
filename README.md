@@ -4,6 +4,8 @@ description: مرحبًا بك في دليل المستخدم لمنصة فلا�
 
 # مرحبًا بك في دليل المستخدم
 
+![](.gitbook/assets/flaha_ofn_jo.png)
+
 | اللغة |  رابط الموقع |
 | ---: | ---: |
 | ![](.gitbook/assets/jordan_flag.png) | أنت تقرأ النسخة العربية! |
@@ -25,22 +27,22 @@ description: مرحبًا بك في دليل المستخدم لمنصة فلا�
 ابدأ من الصفر ، افتح متجرًا عبر الإنترنت يناسب احتياجاتك تمامًا في بضع [**خطوات بسيطة**](your-quick-start-on-ofn-given-who-you-are.md)!
 
 {% hint style="info" %}
-نوصي بهذه الأدلة للمستخدمين الذين يبدأون في منصة شبكة الغاء المفتوح - فلاحة جو لأول مرة.
+نوصي بهذا الدليل للمستخدمين الذين يبدأون في منصة شبكة الغاء المفتوح - فلاحة جو لأول مرة.
 {% endhint %}
 
 ### &gt; ميزات لتلبية احتياجاتك
 
-Find a [detailed explanation of every feature our platform offers](basic-features/), so you can set up your Open Food Network enterprise to specifically meet your local needs.
+ابحث عن شرح مفصل لكل [**ميزة تقدمها منصتنا**](basic-features/) ****، حتى تتمكن من إعداد مؤسسة الخاصة بك لتلبية احتياجاتك المحلية على وجه التحديد.
 
 {% hint style="info" %}
-We recommend these guides to users who would like to customise their Open Food Network enterprise specifically to meet the needs of their business or customers.
+نوصي بهذه الأدلة للمستخدمين الذين يرغبون في تخصيص مؤسستهم الخاصة بهم على منصة فلاحة جو على وجه التحديد لتلبية احتياجات أعمالهم أو عملائهم.
 {% endhint %}
 
 {% hint style="success" %}
-They are also a great resource for answering any questions you may have.
+كما أنها مصدر رائع للإجابة على أي أسئلة قد تكون لديك.
 {% endhint %}
 
-### _&gt;_ Guidelines on complementary software you might like to use in combination with the Open Food Network
+### &gt; إرشادات حول البرامج التكميلية التي قد ترغب في استخدامها مع منصة فلاحة جو
 
 The Open Food Network does a lot of things, but no one tool can fit all needs. We have listed [some needs for which you might need complementary software, and how you can set them up](complementary-tools-software/) to work hand in hand with your local Open Food Network platform.
 
