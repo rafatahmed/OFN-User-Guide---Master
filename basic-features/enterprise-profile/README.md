@@ -4,9 +4,9 @@ Once you have [created your Enterprise account](../register-and-create-your-prof
 
 First you will be asked to [choose the OFN package](package-types.md) \(or type of profile\) which best represents your [business model](../../your-quick-start-on-ofn-given-who-you-are.md).
 
-In this section we detail the different menus that you can complete to refine your enterprise profile and, by doing so, access business-specific features that you may need.
+في هذا القسم ، نفصل القوائم المختلفة التي يمكنك إكمالها لتحسين ملف تعريف مؤسستك ، ومن خلال القيام بذلك ، يمكنك الوصول إلى الميزات الخاصة بالعمل التي قد تحتاجها.
 
 {% hint style="info" %}
-It is important to complete the whole process otherwise your enterprise might not appear on the map, or appear with a partially filled in profile, which can affect your image.
+من المهم إكمال العملية بأكملها وإلا فقد لا تظهر مؤسستك على الخريطة ، أو تظهر بملف تعريف مملوء جزئيًا ، مما قد يؤثر على صورتك.
 {% endhint %}
 
