@@ -59,12 +59,12 @@ description: حدد تصنيف عملك في منصة فلاحة جو
 
 ### يمكن لـمنصة فلاحة مساعدة متجرك على الازدهار من خلال:
 
-1. Increasing your online visibility.
-2. Streamlining your admin tasks with stock levels, orders, finances, packing reports all in one place.
-3. Being able to sell in a manner which suits your needs, whether it is periodic orders to fit in with a seasonal potato harvest or a weekly cycle which matches your baking production... it's up to you!
-4. Helping to build strong working relationships with local food distributors.
+1. زيادة زيارات متجرك الكترونيا  
+2. تبسيط مهامك الإدارية من خلال مستويات المخزون ، والأوامر ، والشؤون المالية ، وتعبئة التقارير    في مكان واحد  
+3. أن تكون قادرًا على البيع بالطريقة التي تناسب احتياجاتك ، سواء كانت طلبات ضمن اشتراك تتناسب مع حصاد البطاطا الموسمي مثلا أو اشتراك أسبوعي يتناسب مع إنتاج الخبز الخاص بك ... الأمر متروك لك!  
+4. المساعدة في بناء علاقات عمل قوية مع موزعي الأغذية المحليين
 
-**Setting up on OFN** can be a simple 5-step process, just follow our quick starters guide [here](quick-start-guides/producer-shop-quick-setup-guide.md).
+**قم بتفعيل اعداداتك** على منصة فلاحة بشكل بسيطً باتباع 5 خطوات ، ما عليك سوى اتباع [**دليل البدء السريع هنا**](quick-start-guides/).
 
 ## الملف الشخصي
 
