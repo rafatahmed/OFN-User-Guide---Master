@@ -44,19 +44,13 @@ description: مرحبًا بك في دليل المستخدم لمنصة فلا�
 
 ### &gt; إرشادات حول البرامج التكميلية التي قد ترغب في استخدامها مع منصة فلاحة جو
 
-The Open Food Network does a lot of things, but no one tool can fit all needs. We have listed [some needs for which you might need complementary software, and how you can set them up](complementary-tools-software/) to work hand in hand with your local Open Food Network platform.
-
-### &gt; Trouble shooting
-
-Still not finding what you need ? Check the [Trouble Shooting section](trouble-shooting.md) to see if others had the same questions as you!
-
-### &gt; Search
-
-Looking for information on something specific? Use the search bar in the top left corner to find the information you need.
-
-![](.gitbook/assets/capture-du-2019-09-26-00-49-08.png)
+تقوم شبكة الغذاء المفتوحة بالكثير من الأشياء ، ولكن لا توجد أداة واحدة يمكنها أن تناسب جميع الاحتياجات. ****[**لقد قمنا بإدراج بعض الاحتياجات التي قد تحتاج من أجلها إلى برامج تكميلية**](complementary-tools-software/) ، وكيف يمكنك إعدادها للعمل جنبًا إلى جنب مع منصة فلاحة.
 
 ## Feedback
 
-Any difficulty with that user guide? Any information missing? Or maybe you want to share some features you would like to see in the future? Get in touch with [your local OFN entity]() for any feedback!
+أي صعوبة مع دليل المستخدم هذا؟ أي معلومات مفقودة؟ أو ربما ترغب في مشاركة بعض الميزات التي ترغب في رؤيتها في المستقبل؟ تواصل معنا !
+
+{% hint style="info" %}
+البريد الالكتروني : support@flaha.org
+{% endhint %}
 

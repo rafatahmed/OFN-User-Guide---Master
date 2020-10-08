@@ -52,7 +52,7 @@
   * [Groups](basic-features/groups/README.md)
     * [Create and manage a Group page](basic-features/groups/group-page.md)
     * [Embed a Group Page in a Website](basic-features/groups/embed-a-group-page.md)
-* [Complementary software and tools](complementary-tools-software/README.md)
+* [البرامج والأدوات التكميلية](complementary-tools-software/README.md)
   * [Newsletters & Promotional Emails](complementary-tools-software/communication.md)
   * [Accounting and Invoicing Packages](complementary-tools-software/finances/README.md)
     * [Paying suppliers with ABA files \(Australia\)](complementary-tools-software/finances/paying-suppliers.md)

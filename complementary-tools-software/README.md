@@ -1,4 +1,4 @@
-# Complementary software and tools
+# البرامج والأدوات التكميلية
 
 As a food enterprise operating on the Open Food Network platform, you may wish to also use external software for specific, additional functionalities. For example, for increased flexibility over invoicing, more in depth accounting, marketing or even analysing your OFN sales.
 
