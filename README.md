@@ -7,8 +7,8 @@ description: مرحبًا بك في دليل المستخدم لمنصة فلا�
 | اللغة |  رابط الموقع |
 | ---: | ---: |
 | ![](.gitbook/assets/jordan_flag.png) | أنت تقرأ النسخة العربية! |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-38-19.png) | [_Open food Network - User Guide  English version_](https://guide.openfoodnetwork.org/) |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png) | [Accéder à la version française du guide utilisateur Open Food Network](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) |
+| ![](.gitbook/assets/capture-du-2019-09-26-00-38-19.png) | [_User Guide  English version_](https://guide.openfoodnetwork.org/) |
+| ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png) | V[ersion Française du Guide Utilisateur](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) |
 
 ### تم تصميم دليل المستخدم هذا لمساعدتك في تحقيق أقصى استفادة من منصة [شبكة الغذاء المفتوح الاردن - فلاحة جو ](https://flaha.org)لدعم وتشغيل مؤسسات الأغذية المحلية و "سلاسل الأغذية القصيرة" أينما كنت.
 
@@ -16,23 +16,19 @@ description: مرحبًا بك في دليل المستخدم لمنصة فلا�
 
 #### تمكّن **فلاحة** المواطنين من بناء طرق أفضل وأكثر عدلاً للحصول على طعامهم محليًا وبشكل مباشر من المزارعين والمنتجين. ويمكن لعمل شبكات موسعة من صغار منتجي الأغذية والموزعين وتجار التجزئة ومراكز الطعام والتعاونيات الغذائية ومجموعات الشراء أن تتحد بمساعدة منصة فلاحة كشبكة غذاء لإيجاد أفضل طريقة لتقصير سلسلة التوريد الغذائي وتساعد في بناء مجتمعات قوية.
 
-The Open Food Network is a global project that supports the operational organisation of farmers, groups of consumers, cooperatives, etc. in the distribution of local food. The software we build is open source, and we collaborate with amazing people from all over the world to keep improving it! We also provide support in the organisational aspects of setting up and running a food hub. Please get in touch with [your local OFN contact]() to learn more about us!
+شبكة الغذاء المفتوح هي مشروع عالمي يدعم التنظيم التشغيلي للمزارعين ، ومجموعات المستهلكين ، والتعاونيات ، وما إلى ذلك في توزيع الأغذية المحلية. المنصة التي نبنيها مفتوحة المصدر ، ونحن نتعاون مع أشخاص رائعين من جميع أنحاء العالم لمواصلة تحسينه! كما نقدم الدعم في الجوانب التنظيمية لإنشاء وتشغيل مركز غذائي. يرجى التواصل لمعرفة [المزيد عنا!](https://www.openfoodnetwork.org/find-your-local-open-food-network)
 
-This short video will give you a brief introduction to how the Open Food Network works, and what we can do for your food business, or organisation.
+## كيف تستخدم الدليل
 
-{% embed url="http://www.youtube.com/embed/eA3IcMUnU14" caption="" %}
+### &gt; الأعداد السريع مصمم خصيصًا لعملك
 
-## How to use this guide?
-
-### &gt; Quick setup guides tailored to your enterprise
-
-Starting scratch, open an online shop that perfectly fits your needs [in a few simple steps](your-quick-start-on-ofn-given-who-you-are.md)!
+ابدأ من الصفر ، افتح متجرًا عبر الإنترنت يناسب احتياجاتك تمامًا في بضع [**خطوات بسيطة**](your-quick-start-on-ofn-given-who-you-are.md)!
 
 {% hint style="info" %}
-We recommend these guides to users starting out on the Open Food Network platform for the first time.
+نوصي بهذه الأدلة للمستخدمين الذين يبدأون في منصة شبكة الغاء المفتوح - فلاحة جو لأول مرة.
 {% endhint %}
 
-### &gt; Features to meet your needs
+### &gt; ميزات لتلبية احتياجاتك
 
 Find a [detailed explanation of every feature our platform offers](basic-features/), so you can set up your Open Food Network enterprise to specifically meet your local needs.
 
