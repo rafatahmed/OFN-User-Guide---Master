@@ -2,7 +2,7 @@
 description: Simple steps to start your OFN journey as a HUB
 ---
 
-# مؤسسة
+# مركز بيع
 
 It's easy to get started on OFN, just follow the steps below:
 

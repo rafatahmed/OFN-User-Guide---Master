@@ -3,7 +3,7 @@
 * [مرحبًا بك في دليل المستخدم](README.md)
 * [اين يقع عملي في منصة فلاحة جو](your-quick-start-on-ofn-given-who-you-are.md)
 * [دليل البدء السريع](quick-start-guides/README.md)
-  * [مؤسسة](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md)
+  * [مركز بيع](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md)
   * [متجر](quick-start-guides/producer-shop-quick-setup-guide.md)
   * [الملف الشخصي](quick-start-guides/profile-only-quick-setup-guide.md)
 * [Features](basic-features/README.md)

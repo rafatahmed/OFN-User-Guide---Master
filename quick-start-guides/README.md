@@ -8,7 +8,7 @@ description: خطوات بسيطة لبدء رحلة منصة فلاحةالخا
 
 اتبع قائمة الإعداد السريع لمؤسستك: ‌
 
-🏷 [المؤسسة](multi-producers-shop-hub-quick-setup-guide.md)  
+🏷 [مركز بيع](multi-producers-shop-hub-quick-setup-guide.md)  
 🏷[المتجر](producer-shop-quick-setup-guide.md)  
 🏷[الملف الشخصي](profile-only-quick-setup-guide.md)
 
