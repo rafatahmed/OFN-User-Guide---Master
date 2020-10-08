@@ -1,10 +1,10 @@
 ---
-description: Simple steps to start your OFN journey as a HUB
+description: خطوات بسيطة لبدء رحلتك الخاصة بك كمركز بيع
 ---
 
 # مركز بيع
 
-It's easy to get started on OFN, just follow the steps below:
+من السهل البدء في منصة فلاحة، ما عليك سوى اتباع الخطوات التالية:
 
 ![Five steps to opening your OFN hub.](../.gitbook/assets/set-up-in-5-steps-draft.png)
 

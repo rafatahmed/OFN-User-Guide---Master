@@ -1,30 +1,31 @@
-# Register and Create an Enterprise Account
+# التسجيل والحساب التجاري
 
-## Create your user account
+### إنشاء حساب المستخدم الخاص بك
 
-* From homepage, click on "Login" on the top right corner, then "Sign up" 
+▪ من الصفحة الرئيسية ، انقر فوق "تسجيل الدخول" في الزاوية اليمنى العليا ، ثم "تسجيل"
 
-![](../.gitbook/assets/loginsetup.jpg)
+![](../.gitbook/assets/tsjyl.png)
 
-* Enter your email address and choose a password.
-* You will receive an email in the next few minutes with a confirmation link. Click on it and you'll be redirected to the login page.  
-* Login
+▪ أدخل عنوان بريدك الإلكتروني واختر كلمة مرور  
+▪ سوف تتلقى رسالة بريد إلكتروني في الدقائق القليلة القادمة مع رابط التأكيد. اضغط عليها وستتم إعادة توجيهك إلى صفحة تسجيل الدخول.  
+ ▪ تسجيل الدخول
 
 {% hint style="info" %}
-If you don't receive an confirmation email from us promptly it may have gone to your spam/junk box.
+إذا لم تتلق رسالة تأكيد بالبريد الإلكتروني منا على الفور ، فربما تكون قد انتقلت إلى صندوق البريد العشوائي / البريد العشوائي.
 {% endhint %}
 
-## Create your first "enterprise" account
+### قم بإنشاء حساب "الشركة" الأول الخاص بك
 
-* Once logged in, click on the top grey banner "Interested in selling through the Open Food Network? **Register here**."
+* 
+▪ بمجرد تسجيل الدخول ، انقر فوق لافتة باللون الرمادي العلوي "هل أنت مهتم بالبيع من خلال منصة فلاحة ؟ سجل هنا."
 
-![](../.gitbook/assets/registerenterprise.jpg)
+![](../.gitbook/assets/mrhba-000bk-fy-shbkh-alghthaa-almftwh.png)
 
-![](../.gitbook/assets/welcome1.jpg)
+![](../.gitbook/assets/tsjyl-flaha-jordan%20%281%29.png)
 
 * Click the ‘I agree to the above Terms of Service’ box and select ‘Let’s Get Started!’
 
-![](../.gitbook/assets/letsgetstarted.jpg)
+![](../.gitbook/assets/tsjyl-flaha44-jordan.png)
 
 * Fill in your enterprise name and contact details.
 
@@ -34,7 +35,7 @@ Your address will be used to add your business to our map of OFN enterprises and
 
 * Choose between 'Producer' \(you make/bake/grow products yourself\) or 'Non Producer' \(you distribute and sell food made by others\).
 
-![](../.gitbook/assets/laststep.jpg)
+![](../.gitbook/assets/tsjyl-flahabyl-jordan.png)
 
 * Click the ‘create profile’ button.  You'll receive an email confirming that the profile is created. You can stop here and fill in the missing information later, or continue and follow the steps to complete your profile now. 
 * Fill in your enterprise description, add images, website/social media links, business details, etc.
