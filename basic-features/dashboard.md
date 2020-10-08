@@ -1,4 +1,4 @@
-# Dashboard
+# الواجهة الامامية
 
 The Dashboard _\*\*_is where you can edit and manage your enterprise's features & settings on the Open Food Network platform. If you have chosen to register your enterprise as a [shop](../your-quick-start-on-ofn-given-who-you-are.md#shop) or [hub](../your-quick-start-on-ofn-given-who-you-are.md#hub) then you can also edit your products and order cycles from the Dashboard.
 

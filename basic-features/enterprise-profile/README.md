@@ -1,4 +1,4 @@
-# Enterprise profile
+# الملف التعريفي للمؤسسة
 
 Once you have [created your Enterprise account](../register-and-create-your-profile.md#create-your-first-enterprise-account), you must log in to your Administration [Dashboard](../dashboard.md) to continue setting up your Enterprise profile.
 

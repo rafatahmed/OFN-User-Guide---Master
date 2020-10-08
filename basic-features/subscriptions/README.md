@@ -1,4 +1,4 @@
-# Subscriptions
+# الاشتراكات
 
 {% hint style="info" %}
 Subscriptions is in 'beta' mode, meaning it's a new feature that may still have some glitches. Please [contact us](https://www.openfoodnetwork.org/find-your-local-open-food-network/) with any feedback about what works, what needs improving or how it could be better explained.

@@ -1,4 +1,4 @@
-# Groups
+# المجموعات
 
 A group is a subset of enterprises on the Open Food Network platform. A group page acts as a sub-directory within the OFN. You can create a group, specify the details of your group and select the enterprises which are part of it. These details will appear on your public group page.
 

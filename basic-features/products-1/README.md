@@ -1,4 +1,4 @@
-# Products
+# المنتجات
 
 If your enterprise is a "producer" type \(you checked the corresponding box in your profile settings\), you can now [add products](products.md) and [related variants](product-variants.md) to your producer catalog. These products can be [added in bulk by importing a csv file ](product-and-inventory-import.md)\(excel file saved in csv format\).
 

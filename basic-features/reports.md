@@ -1,4 +1,4 @@
-# Reports
+# التقارير
 
 You can access reports by clicking on **Reports** in the blue horizontal menu.
 

@@ -1,4 +1,4 @@
-# Shopfront
+# واجهة المتجر
 
 To open your online shop on Open Food Network and start selling, your enterprise must be registered as either a Producer Shop or Producer/Non-Producer Hub. Read more about the different Enterprise profiles[ here](../../your-quick-start-on-ofn-given-who-you-are.md) and [here](../enterprise-profile/).
 

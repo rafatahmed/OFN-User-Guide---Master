@@ -1,4 +1,4 @@
-# Orders
+# الطلبات
 
 Once your shop is online \(ie you have an active [Order Cycle](../shopfront/order-cycle/)\) , customers are able to place orders. This section explains how to:
 

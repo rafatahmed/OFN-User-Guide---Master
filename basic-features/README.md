@@ -1,28 +1,24 @@
 ---
-description: >-
-  In this section we explore all the features offered by the OFN software
-  platform.
+description: في هذا القسم نستكشف جميع الخصائص و المميزات التي توفرها برمجيات منصة فلاحة جو
 ---
 
-# Features
+# الخصائص
 
-You can browse these features at any time but for those just starting out we recommend our [quick start guides](../quick-start-guides/).
+يمكنك تصفح هذه الميزات في أي وقت ولكن بالنسبة لأولئك الذين بدأوا للتو ، نوصي [**بدليل البدء السريع الخاصة بنا**](../quick-start-guides/).
 
 {% hint style="info" %}
-To find the explanation of a specific feature that you need, please use the 'Search' field \(top right hand corner\).
+للعثور على شرح لميزة معينة تحتاجها ، يرجى استخدام حقل "بحث" \(أعلى الزاوية اليمنى\).
 {% endhint %}
 
-In what follows, the features of OFN are explained in a "double chronological way" with the order of sections organised based on a logical order for setting up:
+فيما يلي ، يتم شرح ميزات و خصائص منصة فلاحة جو "بطريقة كرونولوجية مزدوجة" بترتيب الأقسام المنظمة بناءً على ترتيب منطقي للإعداد:
 
-* [registration](register-and-create-your-profile.md)
-* [enterprise profile setup](enterprise-profile/)
-* [products](products-1/)
-* [shopfront](shopfront/)
-* [orders](orders/)
-* [subscriptions](subscriptions/)
-* [reports](reports.md)
-* [dashboard](dashboard.md)
-* [groups](groups/)
-
-and the content within each presented from basic usage to more advanced.
+▪ [**التسجيل**](register-and-create-your-profile.md)  
+▪ [**إعداد ملف تعريف المؤسسة**](enterprise-profile/)  
+▪ [**المنتجات**](products-1/)  
+▪ ****[**واجهة المتجر**](shopfront/)  
+▪ ****[**الطلبات**](orders/)  
+▪ [**الاشتراكات**](subscriptions/)  
+▪ [**التقارير**](reports.md)  
+▪ [**الواجهة الامامية**](dashboard.md)  
+▪ [**المجموعات**](groups/)\*\*\*\*
 
