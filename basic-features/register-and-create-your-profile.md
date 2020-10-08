@@ -23,17 +23,17 @@
 
 ![](../.gitbook/assets/tsjyl-flaha-jordan%20%281%29.png)
 
-* Click the ‘I agree to the above Terms of Service’ box and select ‘Let’s Get Started!’
+▪ انقر فوق مربع "أوافق على شروط الخدمة أعلاه" وحدد "هيا نبدأ!"
 
 ![](../.gitbook/assets/tsjyl-flaha44-jordan.png)
 
-* Fill in your enterprise name and contact details.
+▪ املأ اسم مؤسستك وتفاصيل الاتصال الخاصة بك
 
 {% hint style="info" %}
-Your address will be used to add your business to our map of OFN enterprises and hence increase your visibility.
+سيتم استخدام عنوانك لإضافة عملك إلى خريطتنا الخاصة بمؤسسات فلاحة جو وبالتالي زيادة ظهورك.
 {% endhint %}
 
-* Choose between 'Producer' \(you make/bake/grow products yourself\) or 'Non Producer' \(you distribute and sell food made by others\).
+▪ اختر بين "المُنتِج" \(أنت تصنع / تخبز / تزرع المنتجات بنفسك\) أو "غير المُنتِج" \(أنت توزع وتبيع الطعام الذي يصنعه الآخرون\).
 
 ![](../.gitbook/assets/tsjyl-flahabyl-jordan.png)
 
