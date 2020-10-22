@@ -56,6 +56,6 @@
   * [Facebook tips](hub-management-tips/facebook-tips.md)
   * [Your farm on Facebook](hub-management-tips/your-farm-on-facebook.md)
 * [Trouble shooting](trouble-shooting.md)
-* [المصطلحات المستخدمة في المنصة](glossary-of-ofn-terms.md)
+* [المصطلحات](glossary-of-ofn-terms.md)
 * [تغذية راجعة](feedback.md)
 
