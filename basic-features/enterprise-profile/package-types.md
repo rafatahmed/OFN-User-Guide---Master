@@ -1,4 +1,4 @@
-# أنواع الحزمة / الملف الشخصي
+# Package / profile types
 
 After completing your [enterprise registration](../register-and-create-your-profile.md) you have an option to be taken directly to the [enterprise settings page](enterprise-settings.md).
 

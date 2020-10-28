@@ -4,7 +4,7 @@ description: Simple steps to start your OFN journey as a SHOP
 
 # متجر
 
-It's easy to get started on OFN, just follow the steps below:
+من السهل البدء في منصة فلاحة، ما عليك سوى اتباع الخطوات التالية:
 
 ![Five steps to opening your OFN shop.](../.gitbook/assets/set-up-in-5-steps-draft.png)
 

@@ -98,7 +98,7 @@ You can also change the quantity of each item ordered. Remember to click the **u
 
 {% hint style="danger" %}
 Please check regional regulations regarding the information legally required to be on an invoice. Currently our invoices are not compliant to French law. Invoices for enterprises which are registered for VAT are not compliant under UK law.  
-We hope to bring about updates to correct these aspects. In the meantime you may wish to invoice through a [complementary software package]().
+We hope to bring about updates to correct these aspects. In the meantime you may wish to invoice through a [complementary software package](../../complementary-tools-software/).
 {% endhint %}
 
 * Print Invoice: This will generate the invoice in the form of a pdf for printing.

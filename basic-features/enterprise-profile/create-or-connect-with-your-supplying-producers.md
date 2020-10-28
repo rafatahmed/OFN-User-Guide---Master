@@ -1,4 +1,4 @@
-# إنشاء أو الاتصال مع المنتجين الموردين الخاصين بك
+# Create or connect with your supplying producers
 
 {% hint style="success" %}
 This page is relevant for users who have registered **Producer or Non-Producer Hub** enterprises only.
@@ -63,7 +63,7 @@ Then you can access the the same [enterprise setting page](enterprise-settings.m
 
 **Images:** We strongly recommend that all profiles have both logo and promo images. These images make the online experience for customers more enjoyable and engaging, and also lend credibility to the enterprises.
 
-## المورد لديه ملف تعريف لفلاحة جو موجود مسبقًا <a id="supplyingproducer"></a>
+## Supplier has a pre-existing OFN profile <a id="supplyingproducer"></a>
 
 If a supplier already has an OFN profile, you will need to get their permission to add products to their profile \(if they haven’t already\) and to stock them in your shop. You will be able to find their contact details on their OFN profile.
 

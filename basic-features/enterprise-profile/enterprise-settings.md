@@ -4,7 +4,7 @@ description: >-
   and/or shopfront.
 ---
 
-# إعدادات الموسسة
+# Enterprise Settings
 
 ## Access your Enterprise Settings
 

@@ -1,8 +1,4 @@
----
-description: عرض سريع لمعظم المصطلحات المستخدمة في منصة فلاحة جة
----
-
-# المصطلحات
+# Glossary of OFN Terms
 
 * [Bulk Order Management](basic-features/orders/view-orders.md#bulk-order-management): This facility enables you to manipulate multiple orders at once, rather than individually.  It is useful for:
   * buying groups who have to reach a minimum number of orders on an item before it is feasible to purchase the goods to redistribute to their customers
@@ -26,11 +22,11 @@ description: عرض سريع لمعظم المصطلحات المستخدمة ف
 
 ## Common Symbols Used on OFN
 
-![&#x646;&#x633;&#x62E;](.gitbook/assets/copy.jpg)
+![Copy](.gitbook/assets/copy.jpg)
 
-![&#x62A;&#x639;&#x62F;&#x64A;&#x644;](.gitbook/assets/edit.png)
+![Edit](.gitbook/assets/edit.png)
 
-![&#x62D;&#x630;&#x641;](.gitbook/assets/trash.jpg)
+![Delete](.gitbook/assets/trash.jpg)
 
-![&#x627;&#x644;&#x634;&#x62D;&#x646;/&#x627;&#x644;&#x62A;&#x633;&#x644;&#x64A;&#x645;](.gitbook/assets/shipped%20%282%29.png)
+![Shipping/Delivery](.gitbook/assets/shipped%20%282%29.png)
 
