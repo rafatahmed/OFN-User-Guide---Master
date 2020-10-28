@@ -26,11 +26,11 @@ description: عرض سريع لمعظم المصطلحات المستخدمة ف
 
 ## Common Symbols Used on OFN
 
-![Copy](.gitbook/assets/copy.jpg)
+![&#x646;&#x633;&#x62E;](.gitbook/assets/copy.jpg)
 
-![Edit](.gitbook/assets/edit.png)
+![&#x62A;&#x639;&#x62F;&#x64A;&#x644;](.gitbook/assets/edit.png)
 
-![Delete](.gitbook/assets/trash.jpg)
+![&#x62D;&#x630;&#x641;](.gitbook/assets/trash.jpg)
 
-![Shipping/Delivery](.gitbook/assets/shipped%20%282%29.png)
+![&#x627;&#x644;&#x634;&#x62D;&#x646;/&#x627;&#x644;&#x62A;&#x633;&#x644;&#x64A;&#x645;](.gitbook/assets/shipped%20%282%29.png)
 

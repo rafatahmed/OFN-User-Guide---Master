@@ -1,4 +1,4 @@
-# Enterprise Permissions
+# أذونات المؤسسة
 
 ## Enterprise Permissions
 

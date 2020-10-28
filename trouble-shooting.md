@@ -1,4 +1,4 @@
-# Trouble shooting
+# استكشاف الأخطاء وإصلاحها
 
 {% hint style="success" %}
 Always save or update at the end of every change you make. Changes will be lost if you move to a different page without saving. Sometimes you will not be prompted to save.
