@@ -1,4 +1,4 @@
-# تغيير مديري / مالكي الملف الشخصي
+# Change Profile Managers / Owners
 
 It is common for a producer's profile to be created by a hub, and then the hub will add the producer as a manager of that profile, or even transfer the "ownership" \(primary manager\) of the profile to the producer, when the producer accepts to manage their profile and product catalog themself.
 

@@ -7,7 +7,7 @@
   * [متجر](quick-start-guides/producer-shop-quick-setup-guide.md)
   * [الملف الشخصي](quick-start-guides/profile-only-quick-setup-guide.md)
 * [الخصائص](basic-features/README.md)
-  * [التسجيل والحساب التجاري](basic-features/register-and-create-your-profile.md)
+  * [التسجيل وانشاء حساب مؤسستك](basic-features/register-and-create-your-profile.md)
   * [الواجهة الامامية](basic-features/dashboard.md)
   * [الملف التعريفي للمؤسسة](basic-features/enterprise-profile/README.md)
     * [أنواع الحزمة / الملف الشخصي](basic-features/enterprise-profile/package-types.md)

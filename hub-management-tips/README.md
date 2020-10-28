@@ -1,4 +1,4 @@
-# نصائح إدارة مركز البيع
+# Hub management tips
 
 {% hint style="info" %}
 This section is under development. Please contact your [local OFN support team]() to let them know areas where you would like to have more support.
@@ -8,7 +8,7 @@ The Open Food Network is a global community of people who are running local food
 
 As well as collaborating to grow the OFN software, these enterprises are sharing ideas on managing the enterprises themselves. One example is [this review of a community food hub ](https://drive.google.com/file/d/0B8GhJcMDO6a1YlZHTDd3SE1OTnM/view?usp=sharing)which details its successes and failures as it is set up and grows. [This document pulls together several options for community food enterprises and tips for how to set them up](https://drive.google.com/file/d/1PnOnR10IlOE0Hd7USIfbHCwwHzm2UR1w/view?usp=sharing). Several OFN countries have a community forum where OFN users can share ideas and advice about managing their food hubs/shopfronts. [This is the OFN UK community forum](https://community.openfoodnetwork.org.uk/).
 
-Running a food enterprise is about much more than just selling food and documenting/accounting for sales. Marketing your enterprise to your target customer base is key. As well as sending [regular emails and newsletters](), social media can be an effective \(and cost-efficient\) way of promoting your business.
+Running a food enterprise is about much more than just selling food and documenting/accounting for sales. Marketing your enterprise to your target customer base is key. As well as sending [regular emails and newsletters](../complementary-tools-software/communication.md), social media can be an effective \(and cost-efficient\) way of promoting your business.
 
 You may wish to set up the following:
 
