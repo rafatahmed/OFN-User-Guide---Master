@@ -1,4 +1,4 @@
-# التسجيل وانشاء حساب مؤسستك
+# التسجيل والحساب التجاري
 
 ### إنشاء حساب المستخدم الخاص بك
 
@@ -37,27 +37,25 @@
 
 ![](../.gitbook/assets/tsjyl-flahabyl-jordan.png)
 
-▪ انقر فوق الزر "إنشاء ملف تعريف". ستتلقى بريدًا إلكترونيًا يؤكد إنشاء ملف التعريف. يمكنك التوقف هنا وملء المعلومات المفقودة لاحقًا ، أو المتابعة واتباع الخطوات لإكمال ملف التعريف الخاص بك الآن
-
-▪ املأ وصف مؤسستك ، أضف الصور ، روابط مواقع الويب / وسائل التواصل الاجتماعي ، تفاصيل العمل ، إلخ
-
-▪ عند الانتهاء ، ستتم إعادة توجيهك إلى قائمة ملف تعريف المؤسسة.
+* Click the ‘create profile’ button.  You'll receive an email confirming that the profile is created. You can stop here and fill in the missing information later, or continue and follow the steps to complete your profile now. 
+* Fill in your enterprise description, add images, website/social media links, business details, etc.
+* When you have finished, you will be redirected to the [Enterprise Profile Menu](enterprise-profile/).
 
 ![](../.gitbook/assets/newregister.jpg)
 
-**تم الآن إنشاء "مؤسستك" الأولى وبدأت في ملء ملف التعريف الخاص بك ، لكنها لم تنته!**
+**Your first "enterprise" is now created and you have started to fill in your profile, but it's not finished!**
 
-**الخطوة التالية** هي [**اختيار حزمة فلاحة جو**](enterprise-profile/) \(= نوع الملف الشخصي\) التي تمثل [**نموذج عملك بشكل أفضل**](../your-quick-start-on-ofn-given-who-you-are.md)**.**
+**The next step is to** [**choose the OFN package**](enterprise-profile/package-types.md) **\(= profile type\) which best represents your** [**business model**](../your-quick-start-on-ofn-given-who-you-are.md)**.**
 
 ![](../.gitbook/assets/newchoose.jpg)
 
-**بعد القيام بذلك ، ستتم إضافة مؤسستك إلى خريطة فلاحة جو!**
+**After doing so, your enterprise will added to the OFN map!**
 
-**مقطع قصير لتسجيل مؤسستك على فلاحة جو:**
+**A short clip of registering your enterprise on OFN:**
 
 ![](../.gitbook/assets/registration.gif)
 
-## الوصول إلى لوحة معلومات إدارة المؤسسة الخاصة بك
+## Access your Enterprise Administration Dashboard
 
-بمجرد إنشاء مؤسسة ، يمكنك إدارة ملف التعريف الخاص بك باستخدام لوحة المعلومات. للوصول إلى لوحة معلومات المؤسسة الخاصة بك ، قم بتسجيل الدخول إلى Open Food Network وانقر فوق "الملف الشخصي&gt; الإدارة" في الزاوية اليمنى العليا. انظر [**لوحة المعلومات**](dashboard.md) لمزيد من المعلومات.
+Once you have created an Enterprise, you can manage your profile using the Dashboard. To access your Enterprise Dashboard log in to the Open Food Network and click on "Profile &gt; Administration" in the top right corner. See [Dashboard ](dashboard.md)for more information.
 

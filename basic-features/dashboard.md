@@ -6,9 +6,9 @@
 
 ![](../.gitbook/assets/dash1.jpg)
 
-The options you will see on your dashboard will depend on which enterprise type you choose on [registration](register-and-create-your-profile.md). The screenshots below show the dashboard view for different types of users.
+ستعتمد الخيارات التي ستراها في لوحة المعلومات على [نوع المؤسسة الذي تختاره عند التسجيل](register-and-create-your-profile.md). تُظهر لقطات الشاشة أدناه طريقة عرض لوحة المعلومات لأنواع مختلفة من المستخدمين.
 
-## Producers
+## المنتجين
 
 {% tabs %}
 {% tab title="Producer Profile Only" %}
@@ -20,7 +20,7 @@ The options you will see on your dashboard will depend on which enterprise type 
 {% endtab %}
 {% endtabs %}
 
-## Hubs
+## مراكز البيع
 
 {% tabs %}
 {% tab title="Hub Profile Only" %}
