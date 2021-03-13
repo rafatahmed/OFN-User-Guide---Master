@@ -57,5 +57,5 @@
   * [مزرعتك على الفيسبوك](hub-management-tips/your-farm-on-facebook.md)
 * [استكشاف الأخطاء وإصلاحها](trouble-shooting.md)
 * [المصطلحات](glossary-of-ofn-terms.md)
-* [تغذية راجعة](feedback.md)
+* [تواصل معنا](feedback.md)
 
